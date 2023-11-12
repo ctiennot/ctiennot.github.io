@@ -6,10 +6,10 @@ permalink: /veillee_14nov/
 
 # Mot de bienvenue
 
-# Que vienne ton règne (page 29)
+# Louange
  
 <details>
-<summary> Paroles </summary>
+<summary> Que vienne ton règne (page 29) </summary>
   <br>
 R. Que vienne ton règne,<br>
 Que ton Nom soit sanctifié,<br>
@@ -47,8 +47,6 @@ De larmes, il n’y aura plus.<br>
 
 </details>
 
-# Paroles du pape François
-
 <details>
 <summary> Paroles du pape François lors de la veillée de prière pour la paix au vatican le 7 septembre 2013 </summary>
  <br>
@@ -61,10 +59,8 @@ Quand l’homme pense seulement à lui-même, à ses propres intérêts et se pl
 Regarde la douleur de ton frère, et n’ajoute pas une autre douleur, arrête ta main, reconstruis l’harmonie qui s’est brisée ; et cela non par le conflit, mais par la rencontre ! Que se taisent les armes ! La guerre marque toujours l’échec de la paix, elle est toujours une défaite pour l’humanité. Encore une fois, les paroles de Paul VI résonnent : « Plus les uns contre les autres, plus, jamais !... Jamais plus la guerre, jamais plus la guerre ! » (Discours aux Nations unies, 4 octobre 1965 : AAS 57 [1965], 881). « La paix s’affermit seulement par la paix, celle qui n’est pas séparable des exigences de la justice, mais qui est alimentée par le sacrifice de soi, par la clémence, par la miséricorde, par la charité » (Message pour la Journée mondiale de la Paix 1976 AAS 67 [1975], 671). Frères et sœurs, pardon, dialogue, réconciliation sont les paroles de la paix : […] au Moyen-Orient, partout dans le monde ! Prions, ce soir, pour la réconciliation et pour la paix, travaillons pour la réconciliation et pour la paix, et devenons tous, dans tous les milieux, des hommes et des femmes de réconciliation et de paix ! Ainsi-soit-il. »
 </details>
 
-# Vivre comme le Christ
-
 <details>
-<summary> Paroles </summary>
+<summary> Vivre comme le Christ </summary>
  <br>
  
 R. Vivre comme le Christ, toujours livré à l’amour,<br>
@@ -96,12 +92,10 @@ Remettez à Dieu votre vie<br>
 Ayez foi en sa providence,<br>
 C’est son amour qui nous conduit pour vivre.<br>
 <br>
-</details>
-
-# Prière de Saint François d’Assise
+</details
 
 <details>
-<summary> Prièr de Saint François d'Assise </summary>
+<summary> Prière de Saint François d'Assise </summary>
  <br>
  
 Seigneur, fais de moi un instrument de ta paix,
@@ -158,26 +152,19 @@ Car de leurs propres yeux
 Ils ont vu le Seigneur
 Revenir en gloire à Sion
 
-</details>
-
-
-# livre de Zacharie 9, 9-10 
+</details> 
 
 <details>
-<summary> Za 9 </summary>
+<summary> Livre de Zacharie 9, 9-10 </summary>
  <br>
 « Exulte de toutes tes forces, fille de Sion ! Pousse des cris de joie, fille de Jérusalem ! Voici ton roi qui vient à toi : il est juste et victorieux, pauvre et monté sur un âne, un ânon, le petit d’une ânesse.
 Ce roi fera disparaître d’Éphraïm les chars de guerre, et de Jérusalem les chevaux de combat ; il brisera l’arc de guerre, et il proclamera la paix aux nations. »
 
 </details>
 
-# Chant 4 : Debout resplendis
-
 <details>
-<summary> Paroles </summary>
+<summary> Debout resplendis </summary>
  <br>
-
-Aller déposer chacun une bougie au pied de l’autel avec intentions de prières (comme en petite procession)
 
 1. Debout, resplendis, car voici ta lumière,
 Et sur toi la gloire du Seigneur (bis).
