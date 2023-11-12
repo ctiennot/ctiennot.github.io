@@ -6,87 +6,97 @@ permalink: /veillee_14nov/
 
 # Mot de bienvenue
 
-# Chant 1 : Que vienne ton règne page 29
+# Que vienne ton règne (page 29)
  
 <details>
 <summary> Paroles </summary>
-  
-R. Que vienne ton règne,
-Que ton Nom soit sanctifié,
-Sur la terre comme au ciel,
-Que ta volonté soit faite.
-Que coule en torrents
-Ton Esprit de vérité.
-Donne-nous ton espérance,
-Ton amour, ta sainteté.
-
-Qui pourrait nous séparer
-De ton amour immense ?
-Qui pourrait nous détourner
-De ta miséricorde ?
-
-Tu habites nos louanges,
-Tu inspires nos prières,
-Nous attires en ta présence
-Pour nous tourner vers nos frères.
-
-Pont :
-Délivre-nous de tout mal,
-Donne la paix à ce temps !
-Libère-nous du péché,
-Toi qui fais miséricorde !
-Rassure-nous dans l’épreuve,
-Nous espérons ton Royaume !
-Tu nous promets le bonheur,
-L’Avènement de Jésus !
-
-3. Tu seras notre lumière,
-Il n’y aura plus de nuit.
-Ton Nom sera sur nos lèvres,
-De larmes, il n’y aura plus.
+  <br>
+R. Que vienne ton règne,<br>
+Que ton Nom soit sanctifié,<br>
+Sur la terre comme au ciel,<br>
+Que ta volonté soit faite.<br>
+Que coule en torrents<br>
+Ton Esprit de vérité.<br>
+Donne-nous ton espérance,<br>
+Ton amour, ta sainteté.<br>
+<br>
+1. Qui pourrait nous séparer<br>
+De ton amour immense ?<br>
+Qui pourrait nous détourner<br>
+De ta miséricorde ?<br>
+<br>
+2. Tu habites nos louanges,<br>
+Tu inspires nos prières,<br>
+Nous attires en ta présence<br>
+Pour nous tourner vers nos frères.<br>
+<br>
+Pont :<br>
+Délivre-nous de tout mal,<br>
+Donne la paix à ce temps !<br>
+Libère-nous du péché,<br>
+Toi qui fais miséricorde !<br>
+Rassure-nous dans l’épreuve,<br>
+Nous espérons ton Royaume !<br>
+Tu nous promets le bonheur,<br>
+L’Avènement de Jésus !<br>
+<br>
+3. Tu seras notre lumière,<br>
+Il n’y aura plus de nuit.<br>
+Ton Nom sera sur nos lèvres,<br>
+De larmes, il n’y aura plus.<br>
 
 </details>
 
-# Paroles du pape François lors de la veillée de prière pour la paix au vatican le 7 septembre 2013
+# Paroles du pape François
 
-« Dans le cœur et dans la pensée de Dieu notre monde est la 'maison de l’harmonie et de la paix', et est le lieu où tous peuvent trouver leur place et se sentir 'chez soi', parce que cela est « bon ». Tout le créé forme un ensemble harmonieux, bon, mais surtout les humains, faits à l’image et à la ressemblance de Dieu, sont une unique famille, dans laquelle les relations sont marquées par une fraternité réelle non seulement proclamée en paroles : l’un et l’autre sont le frère et la sœur à aimer, et la relation avec Dieu qui est amour, fidélité, bonté se reflète sur toutes les relations entre les êtres humains et apporte l’harmonie à la création tout entière. Le monde de Dieu est un monde dans lequel chacun se sent responsable de l’autre, du bien de l’autre. […]
-Quand l’homme pense seulement à lui-même, à ses propres intérêts et se place au centre, quand il se laisse séduire par les idoles de la domination et du pouvoir, quand il se met à la place de Dieu, alors il abîme toutes les relations, il ruine tout ; et il ouvre la porte à la violence, à l’indifférence, au conflit.[…]
- Comme je voudrais que pendant un moment tous les hommes et toutes les femmes de bonne volonté regardent la Croix ! On peut y lire la réponse de Dieu : là, à la violence on ne répond pas par la violence, à la mort, on ne répond pas par le langage de la mort. Dans le silence de la Croix, se tait le bruit des armes et parle le langage de la réconciliation, du pardon, du dialogue, de la paix. […]
+<details>
+<summary> Paroles du pape François lors de la veillée de prière pour la paix au vatican le 7 septembre 2013 </summary>
+ <br>
+« Dans le cœur et dans la pensée de Dieu notre monde est la 'maison de l’harmonie et de la paix', et est le lieu où tous peuvent trouver leur place et se sentir 'chez soi', parce que cela est « bon ». Tout le créé forme un ensemble harmonieux, bon, mais surtout les humains, faits à l’image et à la ressemblance de Dieu, sont une unique famille, dans laquelle les relations sont marquées par une fraternité réelle non seulement proclamée en paroles : l’un et l’autre sont le frère et la sœur à aimer, et la relation avec Dieu qui est amour, fidélité, bonté se reflète sur toutes les relations entre les êtres humains et apporte l’harmonie à la création tout entière. Le monde de Dieu est un monde dans lequel chacun se sent responsable de l’autre, du bien de l’autre. […]<br>
+
+Quand l’homme pense seulement à lui-même, à ses propres intérêts et se place au centre, quand il se laisse séduire par les idoles de la domination et du pouvoir, quand il se met à la place de Dieu, alors il abîme toutes les relations, il ruine tout ; et il ouvre la porte à la violence, à l’indifférence, au conflit.[…]<br>
+
+ Comme je voudrais que pendant un moment tous les hommes et toutes les femmes de bonne volonté regardent la Croix ! On peut y lire la réponse de Dieu : là, à la violence on ne répond pas par la violence, à la mort, on ne répond pas par le langage de la mort. Dans le silence de la Croix, se tait le bruit des armes et parle le langage de la réconciliation, du pardon, du dialogue, de la paix. […]<br>
+ 
 Regarde la douleur de ton frère, et n’ajoute pas une autre douleur, arrête ta main, reconstruis l’harmonie qui s’est brisée ; et cela non par le conflit, mais par la rencontre ! Que se taisent les armes ! La guerre marque toujours l’échec de la paix, elle est toujours une défaite pour l’humanité. Encore une fois, les paroles de Paul VI résonnent : « Plus les uns contre les autres, plus, jamais !... Jamais plus la guerre, jamais plus la guerre ! » (Discours aux Nations unies, 4 octobre 1965 : AAS 57 [1965], 881). « La paix s’affermit seulement par la paix, celle qui n’est pas séparable des exigences de la justice, mais qui est alimentée par le sacrifice de soi, par la clémence, par la miséricorde, par la charité » (Message pour la Journée mondiale de la Paix 1976 AAS 67 [1975], 671). Frères et sœurs, pardon, dialogue, réconciliation sont les paroles de la paix : […] au Moyen-Orient, partout dans le monde ! Prions, ce soir, pour la réconciliation et pour la paix, travaillons pour la réconciliation et pour la paix, et devenons tous, dans tous les milieux, des hommes et des femmes de réconciliation et de paix ! Ainsi-soit-il. »
+</details>
 
+# Vivre comme le Christ
 
-# Chant 2 
-
-R. Vivre comme le Christ, toujours livré à l’amour,
-Pour aller son chemin de vie,
-Dans la confiance, la force et la louange.
-
-1. Ne soyez pas ces ombres d’hommes
-Qui vont devant eux au hasard.
-Mais faites fructifier en vous
-Les dons que Dieu vous a donnés pour vivre.
-
-2. Pour préparer votre avenir,
-Demandez simplement à̀ Dieu
-La force de bien accomplir
-Tout ce qu’il attendra de nous pour vivre
-
-3. Tant que le souffle nous tient vie,
-Il nous faut bénir notre Dieu
-Nous chanterons sans nous lasser
-Son infinie miséricorde pour vivre
-
-4. Soyez compatissants et bons
-Pour tous ceux qui souffrent et qui pleurent
-Vous savez que votre bonheur
-Est de semer la joie de Dieu pour vivre
-
-5. Avec un cœur plein de confiance,
-Remettez à Dieu votre vie
-Ayez foi en sa providence,
-C’est son amour qui nous conduit pour vivre.
-
-
+<details>
+<summary> Paroles </summary>
+ <br>
+ 
+R. Vivre comme le Christ, toujours livré à l’amour,<br>
+Pour aller son chemin de vie,<br>
+Dans la confiance, la force et la louange.<br>
+<br>
+1. Ne soyez pas ces ombres d’hommes<br>
+Qui vont devant eux au hasard.<br>
+Mais faites fructifier en vous<br>
+Les dons que Dieu vous a donnés pour vivre.<br>
+<br>
+2. Pour préparer votre avenir,<br>
+Demandez simplement à̀ Dieu<br>
+La force de bien accomplir<br>
+Tout ce qu’il attendra de nous pour vivre<br>
+<br>
+3. Tant que le souffle nous tient vie,<br>
+Il nous faut bénir notre Dieu<br>
+Nous chanterons sans nous lasser<br>
+Son infinie miséricorde pour vivre<br>
+<br>
+4. Soyez compatissants et bons<br>
+Pour tous ceux qui souffrent et qui pleurent<br>
+Vous savez que votre bonheur<br>
+Est de semer la joie de Dieu pour vivre<br>
+<br>
+5. Avec un cœur plein de confiance,<br>
+Remettez à Dieu votre vie<br>
+Ayez foi en sa providence,<br>
+C’est son amour qui nous conduit pour vivre.<br>
+<br>
+</details>
 
 # Prière de Saint François d’Assise
 
