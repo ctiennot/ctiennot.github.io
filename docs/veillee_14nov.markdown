@@ -193,10 +193,8 @@ Parmi les nations tu me glorifieras.
 
 </details>
 
-# Evangile de Saint Matthieu 5 1-12
-
 <details>
-<summary> Paroles </summary>
+<summary> Evangile selon Saint Matthieu, 5, 1:12 </summary>
  <br>
  
 Heureux les pauvres de cœur, car le royaume des Cieux est à eux.
@@ -212,10 +210,8 @@ Réjouissez-vous, soyez dans l’allégresse, car votre récompense est grande d
 
 </details>
 
-# Chant 5 L’esprit saint qui nous est donné 
-
 <details>
-<summary> Paroles </summary>
+<summary> L'Esprit Saint qui nous est donné </summary>
  <br>
 
 R. L’Esprit Saint qui nous est donné
@@ -250,10 +246,8 @@ Dans notre marche vers son Fils.
 
 </details>
 
-# Texte de méditation (Père d’Elbée) 
-
 <details>
-<summary> Paroles </summary>
+<summary> Méditation : texte du Père d'Elbée </summary>
  <br>
  
 C’est un devoir pour vous de répandre autour de vous cette paix douce et joyeuse à la fois, mais, ainsi que le remarquait finement Petite Thérèse, « non pas comme des juges de paix, mais comme des anges de paix ». Ici encore l’Hostie nous parle. Le silence vivant de l’Hostie nous prêche une paix céleste. Jésus a besoin de la trouver au moins dans les cœurs de ses amis, puisque c’est l’héritage que nous avons reçu de lui. […]. Malgré les adjurations des Papes et des Évêques, malgré les efforts plus ou moins désintéressés de certains chefs d’Etat, malgré les organisations internationales, c’est la guerre partout. Et la cause profonde de ces discordes c’est l’orgueil des nations et des hommes. Chacun de nous en est, en partie, responsable, car c’est par les cœurs de ceux qui l’aiment et qu’il aura rempli de sa divine paix [...] que Jésus la rayonnera dans le monde. Le premier moyen de travailler pour la paix du monde, c’est de laisser Jésus l’établir dans nos âmes.
@@ -263,10 +257,8 @@ Croire à l’amour – Père d’Elbée
 
 # Chant 6 : pour tes merveilles page 27
 
-
-# Livre d’Isaie 11 1-10
 <details>
-<summary> Is 11 </summary>
+<summary>Livre d'Isaie (Is 11, 1-10)</summary>
  <br>
  
 Un rameau sortira de la souche de Jessé, père de David, un rejeton jaillira de ses racines.
