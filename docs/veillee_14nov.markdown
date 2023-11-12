@@ -99,10 +99,6 @@ C’est son amour qui nous conduit pour vivre.<br>
 Les pieds de celui qui porte la nouvelle <br>
 Qui annonce la paix, la joie, la délivrance <br>
 Et qui te dit que ton Dieu règne <br>
-Qu'ils sont beaux sur toutes les montagnes <br>
-Les pieds de celui qui porte la nouvelle <br>
-Qui annonce la paix, la joie, la délivrance <br>
-Et qui te dit que ton Dieu règne <br>
 <br>
 <b>
 R. Eclatez tous en criant de joie <br>
@@ -115,18 +111,9 @@ Et nous a donné son esprit <br>
 Revêtue de tes habits de fête <br>
 Et secoue ta poussière, avance vers ton Dieu <br>
 Car il a consolé son peuple <br>
-Réveille-toi, ô Jérusalem <br>
-Revêtue de tes habits de fête <br>
-Et secoue ta poussière, avance vers ton Dieu <br>
-Car il a consolé son peuple <br>
+
 <br>
 3/ Oh écoutez l'arbre des guetteurs <br>
-Ils élèvent la voix <br>
-Et ils crient d'allégresse <br>
-Car de leurs propres yeux <br>
-Ils ont vu le Seigneur <br>
-Revenir en gloire à Sion <br>
-Oh écoutez l'arbre des guetteurs <br>
 Ils élèvent la voix <br>
 Et ils crient d'allégresse <br>
 Car de leurs propres yeux <br>
@@ -200,10 +187,6 @@ Puisque le Christ nous a aimés,<br>
 Ouvrons les portes à l’espérance,<br>
 Soyons des témoins de sa paix !<br>
 <br>
-5/ À nos côtés se tient Marie<br>
-Mère du Christ, Mère des hommes,<br>
-Notre soutien et notre guide<br>
-Dans notre marche vers son Fils.<br>
 
 </details>
 
@@ -244,11 +227,9 @@ Ne déçois pas, Seigneur, mon espérance : <br>
 <details>
 <summary> Prosternez-vous (page 28)</summary>
  <br>
- 1/ Prosternez-vous devant votre Roi, adorez-le de tout votre cœur. <br>
+ Prosternez-vous devant votre Roi, adorez-le de tout votre cœur. <br>
 Faites monter vers sa majesté des chants de gloire pour votre Roi des rois ! <br>
 <br>
-2/ Déposez-lui, toute votre vie, accueillez-le, il est le Sauveur ! <br>
-Reconnaissez son Immensité, sa Vérité, sa Puissance et sa Gloire ! <br>
 </details>
 
 <br>
@@ -274,9 +255,6 @@ Les oreilles des sourds entendront ; alors le boiteux bondira comme un cerf, et 
 5/ Ce jour-là dans le désert les eaux jailliront, <br>
 Et les torrents dans la steppe. La terre brûlée deviendra un verger, Le pays de la soif un jardin. <br>
 <br>
-6/ Dieu tracera un chemin, une voie sacrée ; <br>
-Les insensés n’y passeront pas. Tous les rachetés du Seigneur y marcheront, Dieu lui-même les conduira. <br>
-
 
 </details>
 
@@ -284,30 +262,9 @@ Les insensés n’y passeront pas. Tous les rachetés du Seigneur y marcheront, 
 <details>
 <summary> Ubi caritas (page 34)</summary>
  <br>
-<b>
-  R. Ubi caritas et amor, <br>
+  Ubi caritas et amor, <br>
   Ubi caritas Deus ibi est <br>
-  </b>
   <br>
-  1/ Ce n’est pas nous qui avons aimé Dieu,<br>
-  Mais c’est Lui qui nous aimés le premier,<br>
-  Et qui a envoyé son fils en victime offerte pour nos péchés.<br>
-  <br>
-  2/ Si Dieu nous a aimés ainsi,<br>
-  Nous devons aussi nous aimer les uns les autres,<br>
-  Dieu, personne ne l’a jamais contemplés;<br>
-  Si nous nous aimons les uns les autres,<br>
-  Dieu demeure en nous.<br>
-  <br>
-  3/ En ceci s’est manifesté l’amour de Dieu pour nous,<br>
-  Dieu a envoyé son fils unique dans le monde,<br>
-  Afin que nous vivions par Lui,<br>
-  Il nous a donné son Esprit.<br>
-  <br>
-  5/ Celui qui n’aime pas son frère qu’il voit, <br>
-  Ne saurait aimer le Dieu qu’il ne voit pas. <br>
-  Voilà le commandement que nous avons reçu de Lui: <br>
-  Que celui qui aime Dieu aime aussi son frère. <br>
 
 
 
@@ -344,8 +301,8 @@ daigne l'étreindre dans ton Amour<br>
 et lui en montrer toute la tendresse.<br>
 Fais que, remplie d'Amour pour toi,<br>
 elle contribue à te faire aimer de toutes les nations de la terre.<br>
-Ô Amour de Jésus, nous prenons ici l'engagement de te rester à jamais fidèles<br>
-et de travailler d'un cœur ardent à répandre ton Règne dans tout l'univers.<br>
+Ô amour de Jésus, je prends l'engagement de te rester fidèle [à jamais] <br>
+et de travailler d'un coeur ardent à répandre ton règne dans tout l'univers.
 <br>
 Amen<br>
 
