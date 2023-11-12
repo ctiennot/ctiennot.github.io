@@ -11,6 +11,7 @@ permalink: /veillee_14nov/
 <details>
 <summary> Que vienne ton règne (page 29) </summary>
   <br>
+  <b>
 R. Que vienne ton règne,<br>
 Que ton Nom soit sanctifié,<br>
 Sur la terre comme au ciel,<br>
@@ -19,6 +20,7 @@ Que coule en torrents<br>
 Ton Esprit de vérité.<br>
 Donne-nous ton espérance,<br>
 Ton amour, ta sainteté.<br>
+</b>
 <br>
 1/ Qui pourrait nous séparer<br>
 De ton amour immense ?<br>
@@ -51,10 +53,11 @@ De larmes, il n’y aura plus.<br>
 <details>
 <summary> Vivre comme le Christ </summary>
  <br>
- 
+ <b>
 R. Vivre comme le Christ, toujours livré à l’amour,<br>
 Pour aller son chemin de vie,<br>
 Dans la confiance, la force et la louange.<br>
+</b>
 <br>
 1/ Ne soyez pas ces ombres d’hommes<br>
 Qui vont devant eux au hasard.<br>
@@ -97,10 +100,12 @@ Les pieds de celui qui porte la nouvelle <br>
 Qui annonce la paix, la joie, la délivrance <br>
 Et qui te dit que ton Dieu règne <br>
 <br>
+<b>
 R. Eclatez tous en criant de joie <br>
 Car le Seigneur a racheté son peuple <br>
 Il nous a libéré du joug de l'esclavage <br>
 Et nous a donné son esprit <br>
+</b>
 <br>
 2/ Réveille-toi, ô Jérusalem <br>
 Revêtue de tes habits de fête <br>
@@ -137,10 +142,12 @@ Que ton coeur tressaille d’allégresse.<br>
 Voici tes fils qui reviennent vers toi,<br>
 Et tes filles portées sur la hanche.<br>
 <br>
+<b>
 R.Jérusalem, Jérusalem,<br>
 Quitte ta robe de tristesse !<br>
 Jérusalem, Jérusalem,<br>
 Chante et danse pour ton Dieu!<br>
+</b>
 <br>
 2/ Toutes les nations marcheront vers ta lumière,<br>
 Et les Roys à ta clarté naissante (bis).<br>
@@ -162,11 +169,12 @@ Parmi les nations tu me glorifieras.<br>
 <details>
 <summary> L'Esprit Saint qui nous est donné </summary>
  <br>
-
+<b>
 R. L’Esprit Saint qui nous est donné<br>
 Fait de nous tous des fils de Dieu<br>
 Appelés à la liberté,<br>
 Glorifions Dieu par notre vie !<br>
+</b>
 <br>
 1/ Nés de l’amour de notre Dieu,<br>
 Fils de lumière, sel de la terre,<br>
@@ -199,13 +207,14 @@ Dans notre marche vers son Fils.<br>
 <details>
 <summary> Pour tes merveilles (page 27) </summary>
  <br>
-
+<b>
 R. Pour tes merveilles, <br>
 Je veux chanter ton Nom, <br>
 Proclamer combien tu es bon ! <br>
 De toi et de toi seul, Seigneur, <br>
 Dépend mon sort, <br>
 Ô mon roi, mon Dieu je t’adore. <br>
+</b>
 <br>
 1/ Quand je t’appelle dans la détresse, <br>
 Sensible à mon cri tu t’abaisses, <br>
@@ -242,28 +251,26 @@ Reconnaissez son Immensité, sa Vérité, sa Puissance et sa Gloire ! <br>
 <summary> Vous qui avez soif (page 39) </summary>
 
 <br>
+<b>
  Vous qui avez soif, venez à moi et buvez <br>
 Car de mon cœur ouvert jaillira le fleuve qui donne la vie. (bis) <br>
+</b>
 <br>
 1/ Que soient remplis d’allégresse les déserts, <br>
-Que la steppe exulte et fleurisse, qu’elle se couvre de fleurs et soit en fête : <br>
+Que la steppe exulte et fleurisse, qu’elle se couvre de fleurs et soit en fête :
 La splendeur de Dieu lui est donnée. <br>
 <br>
 2/ Affermissez les mains et les genoux affaiblis, <br>
-Dites aux cœurs défaillants : soyez forts, ne craignez pas, voici votre Dieu. <br>
-C’est lui qui vient vous sauver ! <br>
+Dites aux cœurs défaillants : soyez forts, ne craignez pas, voici votre Dieu. C’est lui qui vient vous sauver ! <br>
 <br>
 4/ En ce jour-là s’ouvriront les yeux des aveugles,<br>
-Les oreilles des sourds entendront ; alors le boiteux bondira comme un cerf,<br>
-et le muet criera de joie.<br>
+Les oreilles des sourds entendront ; alors le boiteux bondira comme un cerf, et le muet criera de joie.<br>
 <br>
 5/ Ce jour-là dans le désert les eaux jailliront, <br>
-Et les torrents dans la steppe. La terre brûlée deviendra un verger, <br>
-Le pays de la soif un jardin. <br>
+Et les torrents dans la steppe. La terre brûlée deviendra un verger, Le pays de la soif un jardin. <br>
 <br>
 6/ Dieu tracera un chemin, une voie sacrée ; <br>
-Les insensés n’y passeront pas. Tous les rachetés du Seigneur y marcheron <br>t,
-Dieu lui-même les conduira. <br>
+Les insensés n’y passeront pas. Tous les rachetés du Seigneur y marcheront, Dieu lui-même les conduira. <br>
 
 
 </details>
@@ -272,9 +279,10 @@ Dieu lui-même les conduira. <br>
 <details>
 <summary> Ubi caritas (page 34)</summary>
  <br>
-
+<b>
   R. Ubi caritas et amor, <br>
   Ubi caritas Deus ibi est <br>
+  </b>
   <br>
   1/ Ce n’est pas nous qui avons aimé Dieu,<br>
   Mais c’est Lui qui nous aimés le premier,<br>
