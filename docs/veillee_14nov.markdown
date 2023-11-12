@@ -100,6 +100,10 @@ C’est son amour qui nous conduit pour vivre.<br>
 
 # Prière de Saint François d’Assise
 
+<details>
+<summary> Prièr de Saint François d'Assise </summary>
+ <br>
+ 
 Seigneur, fais de moi un instrument de ta paix,
 Là où est la haine, que je mette l’amour.
 Là où est l’offense, que je mette le pardon.
@@ -154,15 +158,24 @@ Car de leurs propres yeux
 Ils ont vu le Seigneur
 Revenir en gloire à Sion
 
-
+</details>
 
 
 # livre de Zacharie 9, 9-10 
 
+<details>
+<summary> Za 9 </summary>
+ <br>
 « Exulte de toutes tes forces, fille de Sion ! Pousse des cris de joie, fille de Jérusalem ! Voici ton roi qui vient à toi : il est juste et victorieux, pauvre et monté sur un âne, un ânon, le petit d’une ânesse.
 Ce roi fera disparaître d’Éphraïm les chars de guerre, et de Jérusalem les chevaux de combat ; il brisera l’arc de guerre, et il proclamera la paix aux nations. »
 
+</details>
+
 # Chant 4 : Debout resplendis
+
+<details>
+<summary> Paroles </summary>
+ <br>
 
 Aller déposer chacun une bougie au pied de l’autel avec intentions de prières (comme en petite procession)
 
@@ -191,9 +204,14 @@ On t’appellera « Ville du Seigneur ».
 Les jours de ton deuil seront tous accomplis,
 Parmi les nations tu me glorifieras.
 
+</details>
 
 # Evangile de Saint Matthieu 5 1-12
 
+<details>
+<summary> Paroles </summary>
+ <br>
+ 
 Heureux les pauvres de cœur, car le royaume des Cieux est à eux.
 Heureux ceux qui pleurent, car ils seront consolés.
 Heureux les doux, car ils recevront la terre en héritage.
@@ -205,7 +223,13 @@ Heureux ceux qui sont persécutés pour la justice, car le royaume des Cieux est
 Heureux êtes-vous si l’on vous insulte, si l’on vous persécute et si l’on dit faussement toute sorte de mal contre vous, à cause de moi.
 Réjouissez-vous, soyez dans l’allégresse, car votre récompense est grande dans les cieux ! C’est ainsi qu’on a persécuté les prophètes qui vous ont précédés.
 
+</details>
+
 # Chant 5 L’esprit saint qui nous est donné 
+
+<details>
+<summary> Paroles </summary>
+ <br>
 
 R. L’Esprit Saint qui nous est donné
 Fait de nous tous des fils de Dieu
@@ -237,15 +261,27 @@ Mère du Christ, Mère des hommes,
 Notre soutien et notre guide
 Dans notre marche vers son Fils.
 
+</details>
 
 # Texte de méditation (Père d’Elbée) 
+
+<details>
+<summary> Paroles </summary>
+ <br>
+ 
 C’est un devoir pour vous de répandre autour de vous cette paix douce et joyeuse à la fois, mais, ainsi que le remarquait finement Petite Thérèse, « non pas comme des juges de paix, mais comme des anges de paix ». Ici encore l’Hostie nous parle. Le silence vivant de l’Hostie nous prêche une paix céleste. Jésus a besoin de la trouver au moins dans les cœurs de ses amis, puisque c’est l’héritage que nous avons reçu de lui. […]. Malgré les adjurations des Papes et des Évêques, malgré les efforts plus ou moins désintéressés de certains chefs d’Etat, malgré les organisations internationales, c’est la guerre partout. Et la cause profonde de ces discordes c’est l’orgueil des nations et des hommes. Chacun de nous en est, en partie, responsable, car c’est par les cœurs de ceux qui l’aiment et qu’il aura rempli de sa divine paix [...] que Jésus la rayonnera dans le monde. Le premier moyen de travailler pour la paix du monde, c’est de laisser Jésus l’établir dans nos âmes.
 Croire à l’amour – Père d’Elbée
+
+</details>
 
 # Chant 6 : pour tes merveilles page 27
 
 
 # Livre d’Isaie 11 1-10
+<details>
+<summary> Is 11 </summary>
+ <br>
+ 
 Un rameau sortira de la souche de Jessé, père de David, un rejeton jaillira de ses racines.
  Sur lui reposera l’esprit du Seigneur : esprit de sagesse et de discernement, esprit de conseil et de force, esprit de connaissance et de crainte du Seigneur 
 – qui lui inspirera la crainte du Seigneur. Il ne jugera pas sur l’apparence ; il ne se prononcera pas sur des rumeurs.
@@ -256,6 +292,8 @@ La vache et l’ourse auront même pâture, leurs petits auront même gîte. Le 
 Le nourrisson s’amusera sur le nid du cobra ; sur le trou de la vipère, l’enfant étendra la main.
 Il n’y aura plus de mal ni de corruption sur toute ma montagne sainte ; car la connaissance du Seigneur remplira le pays comme les eaux recouvrent le fond de la mer.
 Ce jour-là, la racine de Jessé, père de David, sera dressée comme un étendard pour les peuples, les nations la chercheront, et la gloire sera sa demeure.
+
+</details>
 
 # Adoration
 
@@ -269,6 +307,10 @@ Ce jour-là, la racine de Jessé, père de David, sera dressée comme un étenda
 
 # Ado 5 : prière de marcel van
 
+<details>
+<summary> Prière de Marcel Van </summary>
+ <br>
+
  Seigneur Jésus, aie compassion de la France,
 daigne l'étreindre dans ton Amour
 et lui en montrer toute la tendresse.
@@ -278,12 +320,24 @@ elle contribue à te faire aimer de toutes les nations de la terre.
 et de travailler d'un cœur ardent à répandre ton Règne dans tout l'univers.
 Amen
 
+</details>
+
 # Saint Pape Jean XXIII (1881-1963) prière à Jésus prince de la paix
 
+<details>
+<summary> Prière à Jésus Prince de la Paix </summary>
+ <br>
+ 
 « Ô Prince de la paix, Jésus ressuscité, regarde avec bienveillance l'humanité entière. De Toi seul, elle attend aide et secours. Comme au temps de Ta vie terrestre, toujours Tu préfères les petits, les humbles, ceux qui souffrent. Tu vas toujours au-devant des pécheurs. Fais que tous T'invoquent et Te trouvent, pour avoir en Toi la voie, la vérité et la vie. Accorde-nous Ta paix, Agneau immolé pour notre salut : « Agneau de Dieu qui enlèves le péché du monde, donne-nous la Paix ! » Éloigne du cœur des hommes tout ce qui peut compromettre leur paix, confirme-les dans la vérité, dans la justice et dans l'amour fraternel. Éclaire les dirigeants ; que leurs efforts, en vue du bien-être des peuples, soient unis à l'effort en vue de leur assurer la paix. Enflamme la volonté de tous afin de renverser les barrières qui divisent, afin de renforcer les liens de la charité. Enflamme la volonté de tous afin que tous soient prêts à comprendre, à compatir, à pardonner, afin que tous soient unis dans Ton nom, et que triomphe dans les cœurs, les familles, le monde entier, la paix, Ta paix. Ainsi soit-il. »
+
+</details>
 
 # Prière de Jean Paul II, le 8 décembre 2003,
 
+<details>
+<summary> Paroles </summary>
+ <br>
+ 
 Reine de la paix, prie pour nous!
 C'est vers Toi que se tourne notre regard
 avec la plus grande anxiété,
@@ -325,4 +379,5 @@ Mère, Reine de la paix,
 donne-nous le Christ, véritable paix du monde !
 Amen
 
+</details>
  
