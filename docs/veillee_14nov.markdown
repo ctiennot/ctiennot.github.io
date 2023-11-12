@@ -19,12 +19,12 @@ Ton Esprit de vérité.<br>
 Donne-nous ton espérance,<br>
 Ton amour, ta sainteté.<br>
 <br>
-1. Qui pourrait nous séparer<br>
+1/ Qui pourrait nous séparer<br>
 De ton amour immense ?<br>
 Qui pourrait nous détourner<br>
 De ta miséricorde ?<br>
 <br>
-2. Tu habites nos louanges,<br>
+2/ Tu habites nos louanges,<br>
 Tu inspires nos prières,<br>
 Nous attires en ta présence<br>
 Pour nous tourner vers nos frères.<br>
@@ -39,7 +39,7 @@ Nous espérons ton Royaume !<br>
 Tu nous promets le bonheur,<br>
 L’Avènement de Jésus !<br>
 <br>
-3. Tu seras notre lumière,<br>
+3/ Tu seras notre lumière,<br>
 Il n’y aura plus de nuit.<br>
 Ton Nom sera sur nos lèvres,<br>
 De larmes, il n’y aura plus.<br>
@@ -54,27 +54,27 @@ R. Vivre comme le Christ, toujours livré à l’amour,<br>
 Pour aller son chemin de vie,<br>
 Dans la confiance, la force et la louange.<br>
 <br>
-1. Ne soyez pas ces ombres d’hommes<br>
+1/ Ne soyez pas ces ombres d’hommes<br>
 Qui vont devant eux au hasard.<br>
 Mais faites fructifier en vous<br>
 Les dons que Dieu vous a donnés pour vivre.<br>
 <br>
-1. Pour préparer votre avenir,<br>
+2/ Pour préparer votre avenir,<br>
 Demandez simplement à̀ Dieu<br>
 La force de bien accomplir<br>
 Tout ce qu’il attendra de nous pour vivre<br>
 <br>
-1. Tant que le souffle nous tient vie,<br>
+3/ Tant que le souffle nous tient vie,<br>
 Il nous faut bénir notre Dieu<br>
 Nous chanterons sans nous lasser<br>
 Son infinie miséricorde pour vivre<br>
 <br>
-1. Soyez compatissants et bons<br>
+4/ Soyez compatissants et bons<br>
 Pour tous ceux qui souffrent et qui pleurent<br>
 Vous savez que votre bonheur<br>
 Est de semer la joie de Dieu pour vivre<br>
 <br>
-1. Avec un cœur plein de confiance,<br>
+5/ Avec un cœur plein de confiance,<br>
 Remettez à Dieu votre vie<br>
 Ayez foi en sa providence,<br>
 C’est son amour qui nous conduit pour vivre.<br>
@@ -85,7 +85,7 @@ C’est son amour qui nous conduit pour vivre.<br>
 <summary> Qu'ils sont beaux </summary>
  <br>
 
-1. Qu'ils sont beaux sur toutes les montagnes <br>
+1/ Qu'ils sont beaux sur toutes les montagnes <br>
 Les pieds de celui qui porte la nouvelle <br>
 Qui annonce la paix, la joie, la délivrance <br>
 Et qui te dit que ton Dieu règne <br>
@@ -99,7 +99,7 @@ Car le Seigneur a racheté son peuple <br>
 Il nous a libéré du joug de l'esclavage <br>
 Et nous a donné son esprit <br>
 <br>
-2. Réveille-toi, ô Jérusalem <br>
+2/ Réveille-toi, ô Jérusalem <br>
 Revêtue de tes habits de fête <br>
 Et secoue ta poussière, avance vers ton Dieu <br>
 Car il a consolé son peuple <br>
@@ -108,8 +108,7 @@ Revêtue de tes habits de fête <br>
 Et secoue ta poussière, avance vers ton Dieu <br>
 Car il a consolé son peuple <br>
 <br>
-
-3. Oh écoutez l'arbre des guetteurs <br>
+3/ Oh écoutez l'arbre des guetteurs <br>
 Ils élèvent la voix <br>
 Et ils crient d'allégresse <br>
 Car de leurs propres yeux <br>
@@ -127,26 +126,26 @@ Revenir en gloire à Sion <br>
 <details>
 <summary> Debout resplendis </summary>
  <br>
-
-1. Debout, resplendis, car voici ta lumière,<br>
+1/ Debout, resplendis, car voici ta lumière,<br>
 Et sur toi la gloire du Seigneur (bis).<br>
 Lève les yeux et regarde au loin,<br>
 Que ton coeur tressaille d’allégresse.<br>
 Voici tes fils qui reviennent vers toi,<br>
 Et tes filles portées sur la hanche.<br>
+<br>
 R.Jérusalem, Jérusalem,<br>
 Quitte ta robe de tristesse !<br>
 Jérusalem, Jérusalem,<br>
 Chante et danse pour ton Dieu!<br>
-
 <br>
-2.Toutes les nations marcheront vers ta lumière,<br>
+2/ Toutes les nations marcheront vers ta lumière,<br>
 Et les Roys à ta clarté naissante (bis).<br>
 De nombreux troupeaux de chameaux te couvriront,<br>
 Les trésors des mers afflueront vers toi,<br>
 Ils viendront d’Epha, de Saba, de Qédar,<br>
 Faisant monter vers Dieu la louange.<br>
-3.Les fils d’étrangers rebâtiront tes remparts,<br>
+<br>
+3/ Les fils d’étrangers rebâtiront tes remparts,<br>
 Et leurs Roys passeront par tes portes (bis).<br>
 Je ferai de toi un sujet de joie,<br>
 On t’appellera « Ville du Seigneur ».<br>
@@ -165,27 +164,27 @@ Fait de nous tous des fils de Dieu<br>
 Appelés à la liberté,<br>
 Glorifions Dieu par notre vie !<br>
 <br>
-1. Nés de l’amour de notre Dieu,<br>
+1/ Nés de l’amour de notre Dieu,<br>
 Fils de lumière, sel de la terre,<br>
 Ferments d’amour au cœur du monde<br>
 Par la puissance de l’Esprit.<br>
 <br>
-2. À son image, il nous a faits<br>
+2/ À son image, il nous a faits<br>
 Pour nous aimer comme il nous aime,<br>
 Sa ressemblance reste gravée<br>
 Au fond des cœurs de ceux qui l’aiment.<br>
 <br>
-3. Tous ceux qu’anime l’Esprit Saint<br>
+3/ Tous ceux qu’anime l’Esprit Saint<br>
 Sont délivrés de toute peur<br>
 Et désormais fils adoptifs,<br>
 Ils sont devenus fils du Père.<br>
 <br>
-4. N’ayons pas peur d’être des saints<br>
+4/ N’ayons pas peur d’être des saints<br>
 Puisque le Christ nous a aimés,<br>
 Ouvrons les portes à l’espérance,<br>
 Soyons des témoins de sa paix !<br>
 <br>
-5. À nos côtés se tient Marie<br>
+5/ À nos côtés se tient Marie<br>
 Mère du Christ, Mère des hommes,<br>
 Notre soutien et notre guide<br>
 Dans notre marche vers son Fils.<br>
@@ -204,17 +203,17 @@ De toi et de toi seul, Seigneur, <br>
 Dépend mon sort, <br>
 Ô mon roi, mon Dieu je t’adore. <br>
 <br>
-1. Quand je t’appelle dans la détresse, <br>
+1/ Quand je t’appelle dans la détresse, <br>
 Sensible à mon cri tu t’abaisses, <br>
 Ta droite douce et forte me redresse, <br>
 Contre ton sein me tient sans cesse. <br>
 <br>
-2. À ta tendresse je m’abandonne, <br>
+2/ À ta tendresse je m’abandonne, <br>
 Car sûre est ta miséricorde. <br>
 Qui comme toi, Seigneur, sauve et pardonne ? <br>
 Pas de salut que tu n’accordes ! <br>
 <br>
-3. Je ne peux vivre qu’en ta présence, <br>
+3/ Je ne peux vivre qu’en ta présence, <br>
 Que ne me soit cachée ta face ! <br>
 Ne déçois pas, Seigneur, mon espérance : <br>
 À tout jamais je rendrai grâce. <br>
@@ -227,10 +226,10 @@ Ne déçois pas, Seigneur, mon espérance : <br>
 <details>
 <summary> Prosternez-vous (page 28)</summary>
  <br>
- 1- Prosternez-vous devant votre Roi, adorez-le de tout votre cœur. <br>
+ 1/ Prosternez-vous devant votre Roi, adorez-le de tout votre cœur. <br>
 Faites monter vers sa majesté des chants de gloire pour votre Roi des rois ! <br>
 <br>
-2- Déposez-lui, toute votre vie, accueillez-le, il est le Sauveur ! <br>
+2/ Déposez-lui, toute votre vie, accueillez-le, il est le Sauveur ! <br>
 Reconnaissez son Immensité, sa Vérité, sa Puissance et sa Gloire ! <br>
 </details>
 
@@ -241,23 +240,23 @@ Reconnaissez son Immensité, sa Vérité, sa Puissance et sa Gloire ! <br>
  Vous qui avez soif, venez à moi et buvez <br>
 Car de mon cœur ouvert jaillira le fleuve qui donne la vie. (bis) <br>
 <br>
-1- Que soient remplis d’allégresse les déserts, <br>
+1/ Que soient remplis d’allégresse les déserts, <br>
 Que la steppe exulte et fleurisse, qu’elle se couvre de fleurs et soit en fête : <br>
 La splendeur de Dieu lui est donnée. <br>
 <br>
-2- Affermissez les mains et les genoux affaiblis, <br>
+2/ Affermissez les mains et les genoux affaiblis, <br>
 Dites aux cœurs défaillants : soyez forts, ne craignez pas, voici votre Dieu. <br>
 C’est lui qui vient vous sauver ! <br>
 <br>
-4- En ce jour-là s’ouvriront les yeux des aveugles,<br>
+4/ En ce jour-là s’ouvriront les yeux des aveugles,<br>
 Les oreilles des sourds entendront ; alors le boiteux bondira comme un cerf,<br>
 et le muet criera de joie.<br>
 <br>
-5- Ce jour-là dans le désert les eaux jailliront, <br>
+5/ Ce jour-là dans le désert les eaux jailliront, <br>
 Et les torrents dans la steppe. La terre brûlée deviendra un verger, <br>
 Le pays de la soif un jardin. <br>
 <br>
-6- Dieu tracera un chemin, une voie sacrée ; <br>
+6/ Dieu tracera un chemin, une voie sacrée ; <br>
 Les insensés n’y passeront pas. Tous les rachetés du Seigneur y marcheron <br>t,
 Dieu lui-même les conduira. <br>
 
@@ -268,28 +267,28 @@ Dieu lui-même les conduira. <br>
 <summary> Ubi caritas (page 34)</summary>
  <br>
 
-R. Ubi caritas et amor, <br>
-Ubi caritas Deus ibi est <br>
-<br>
-1. Ce n’est pas nous qui avons aimé Dieu,<br>
-Mais c’est Lui qui nous aimés le premier,<br>
-Et qui a envoyé son fils en victime offerte pour nos péchés.<br>
-<br>
-2. Si Dieu nous a aimés ainsi,<br>
-Nous devons aussi nous aimer les uns les autres,<br>
-Dieu, personne ne l’a jamais contemplés;<br>
-Si nous nous aimons les uns les autres,<br>
-Dieu demeure en nous.<br>
-<br>
-3. En ceci s’est manifesté l’amour de Dieu pour nous,<br>
-Dieu a envoyé son fils unique dans le monde,<br>
-Afin que nous vivions par Lui,<br>
-Il nous a donné son Esprit.<br>
-<br>
-5. Celui qui n’aime pas son frère qu’il voit, <br>
-Ne saurait aimer le Dieu qu’il ne voit pas. <br>
-Voilà le commandement que nous avons reçu de Lui: <br>
-Que celui qui aime Dieu aime aussi son frère. <br>
+  R. Ubi caritas et amor, <br>
+  Ubi caritas Deus ibi est <br>
+  <br>
+  1/ Ce n’est pas nous qui avons aimé Dieu,<br>
+  Mais c’est Lui qui nous aimés le premier,<br>
+  Et qui a envoyé son fils en victime offerte pour nos péchés.<br>
+  <br>
+  2/ Si Dieu nous a aimés ainsi,<br>
+  Nous devons aussi nous aimer les uns les autres,<br>
+  Dieu, personne ne l’a jamais contemplés;<br>
+  Si nous nous aimons les uns les autres,<br>
+  Dieu demeure en nous.<br>
+  <br>
+  3/ En ceci s’est manifesté l’amour de Dieu pour nous,<br>
+  Dieu a envoyé son fils unique dans le monde,<br>
+  Afin que nous vivions par Lui,<br>
+  Il nous a donné son Esprit.<br>
+  <br>
+  5/ Celui qui n’aime pas son frère qu’il voit, <br>
+  Ne saurait aimer le Dieu qu’il ne voit pas. <br>
+  Voilà le commandement que nous avons reçu de Lui: <br>
+  Que celui qui aime Dieu aime aussi son frère. <br>
 
 
 
