@@ -6,7 +6,7 @@ permalink: /veillee_14nov/
 # Veillée de prière pour la paix dans le monde
 
 <p align="center">
-  <img src="assets/images/image.png" width="20%">
+  <img src="https://ctiennot.github.io/docs/assets/images/image.png" width="20%">
 </p>
 
 ## Louange
