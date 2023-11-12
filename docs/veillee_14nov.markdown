@@ -3,7 +3,11 @@ layout: page
 title: Veillée de prière pour la Paix dans le monde (14 novembre 2023)
 permalink: /veillee_14nov/
 ---
-# Veillée de prière pour la paix dans le monde (14 novembre)
+# Veillée de prière pour la paix dans le monde
+
+<p align="center">
+  <img src="image.png" width="20%">
+</p>
 
 ## Louange
 
