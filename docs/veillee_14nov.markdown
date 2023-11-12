@@ -6,7 +6,8 @@ permalink: /veillee_14nov/
 # Veillée de prière pour la paix dans le monde (14 novembre)
 
 ## Louange
- 
+
+
 <details>
 <summary> Que vienne ton règne (page 29) </summary>
   <br>
@@ -46,6 +47,7 @@ De larmes, il n’y aura plus.<br>
 
 </details>
 
+<br>
 <details>
 <summary> Vivre comme le Christ </summary>
  <br>
@@ -81,6 +83,7 @@ C’est son amour qui nous conduit pour vivre.<br>
 <br>
 </details>
 
+<br>
 <details>
 <summary> Qu'ils sont beaux </summary>
  <br>
@@ -123,6 +126,7 @@ Revenir en gloire à Sion <br>
 <br>
 </details>
 
+<br>
 <details>
 <summary> Debout resplendis </summary>
  <br>
@@ -154,7 +158,7 @@ Parmi les nations tu me glorifieras.<br>
 
 </details>
 
-
+<br>
 <details>
 <summary> L'Esprit Saint qui nous est donné </summary>
  <br>
@@ -191,7 +195,7 @@ Dans notre marche vers son Fils.<br>
 
 </details>
 
-
+<br>
 <details>
 <summary> Pour tes merveilles (page 27) </summary>
  <br>
@@ -233,6 +237,7 @@ Faites monter vers sa majesté des chants de gloire pour votre Roi des rois ! <b
 Reconnaissez son Immensité, sa Vérité, sa Puissance et sa Gloire ! <br>
 </details>
 
+<br>
 <details>
 <summary> Vous qui avez soif (page 39) </summary>
 
@@ -263,6 +268,7 @@ Dieu lui-même les conduira. <br>
 
 </details>
 
+<br>
 <details>
 <summary> Ubi caritas (page 34)</summary>
  <br>
@@ -294,6 +300,8 @@ Dieu lui-même les conduira. <br>
 
 </details>
 
+
+<br>
 <details>
 <summary> Ô vrai Corps de Jésus </summary>
  <br>
@@ -311,6 +319,9 @@ Nous t’adorons et nous te contemplons <br>
 
 </details>
 
+
+
+<br>
 <details>
 <summary> Prière de Marcel Van </summary>
  <br>
