@@ -97,59 +97,58 @@ C’est son amour qui nous conduit pour vivre.<br>
 <summary> Prière de Saint François d'Assise </summary>
  <br>
  
-Seigneur, fais de moi un instrument de ta paix,
-Là où est la haine, que je mette l’amour.
-Là où est l’offense, que je mette le pardon.
-Là où est la discorde, que je mette l’union.
-Là où est l’erreur, que je mette la vérité.
-Là où est le doute, que je mette la foi.
-Là où est le désespoir, que je mette l’espérance.
-Là où sont les ténèbres, que je mette la lumière.
-Là où est la tristesse, que je mette la joie.
-O Seigneur, que je ne cherche pas tant à
-être consolé qu’à consoler,
-à être compris qu’à comprendre,
-à être aimé qu’à aimer.
-Car c’est en se donnant qu’on reçoit,
-c’est en s’oubliant qu’on se retrouve,
-c’est en pardonnant qu’on est pardonné,
-c’est en mourant qu’on ressuscite à l’éternelle vie. 
-Chant 3 
+Seigneur, fais de moi un instrument de ta paix,<br>
+Là où est la haine, que je mette l’amour.<br>
+Là où est l’offense, que je mette le pardon.<br>
+Là où est la discorde, que je mette l’union.<br>
+Là où est l’erreur, que je mette la vérité.<br>
+Là où est le doute, que je mette la foi.<br>
+Là où est le désespoir, que je mette l’espérance.<br>
+Là où sont les ténèbres, que je mette la lumière.<br>
+Là où est la tristesse, que je mette la joie.<br>
+O Seigneur, que je ne cherche pas tant à<br>
+être consolé qu’à consoler,<br>
+à être compris qu’à comprendre,<br>
+à être aimé qu’à aimer.<br>
+Car c’est en se donnant qu’on reçoit,<br>
+c’est en s’oubliant qu’on se retrouve,<br>
+c’est en pardonnant qu’on est pardonné,<br>
+c’est en mourant qu’on ressuscite à l’éternelle vie. <br>
+<br>
 
-Qu'ils sont beaux sur toutes les montagnes
-Les pieds de celui qui porte la nouvelle
-Qui annonce la paix, la joie, la délivrance
-Et qui te dit que ton Dieu règne
-Qu'ils sont beaux sur toutes les montagnes
-Les pieds de celui qui porte la nouvelle
-Qui annonce la paix, la joie, la délivrance
-Et qui te dit que ton Dieu règne
-R. Eclatez tous en criant de joie
-Car le Seigneur a racheté son peuple
-Il nous a libéré du joug de l'esclavage
-Et nous a donné son esprit
-Réveille-toi, ô Jérusalem
-Revêtue de tes habits de fête
-Et secoue ta poussière, avance vers ton Dieu
-Car il a consolé son peuple
-Réveille-toi, ô Jérusalem
-Revêtue de tes habits de fête
-Et secoue ta poussière, avance vers ton Dieu
-Car il a consolé son peuple
-
-
-Oh écoutez l'arbre des guetteurs
-Ils élèvent la voix
-Et ils crient d'allégresse
-Car de leurs propres yeux
-Ils ont vu le Seigneur
-Revenir en gloire à Sion
-Oh écoutez l'arbre des guetteurs
-Ils élèvent la voix
-Et ils crient d'allégresse
-Car de leurs propres yeux
-Ils ont vu le Seigneur
-Revenir en gloire à Sion
+Qu'ils sont beaux sur toutes les montagnes<br>
+Les pieds de celui qui porte la nouvelle<br>
+Qui annonce la paix, la joie, la délivrance<br>
+Et qui te dit que ton Dieu règne<br>
+Qu'ils sont beaux sur toutes les montagnes<br>
+Les pieds de celui qui porte la nouvelle<br>
+Qui annonce la paix, la joie, la délivrance<br>
+Et qui te dit que ton Dieu règne<br>
+R. Eclatez tous en criant de joie<br>
+Car le Seigneur a racheté son peuple<br>
+Il nous a libéré du joug de l'esclavage<br>
+Et nous a donné son esprit<br>
+Réveille-toi, ô Jérusalem<br>
+Revêtue de tes habits de fête<br>
+Et secoue ta poussière, avance vers ton Dieu<br>
+Car il a consolé son peuple<br>
+Réveille-toi, ô Jérusalem<br>
+Revêtue de tes habits de fête<br>
+Et secoue ta poussière, avance vers ton Dieu<br>
+Car il a consolé son peuple<br>
+<br>
+Oh écoutez l'arbre des guetteurs<br>
+Ils élèvent la voix<br>
+Et ils crient d'allégresse<br>
+Car de leurs propres yeux<br>
+Ils ont vu le Seigneur<br>
+Revenir en gloire à Sion<br>
+Oh écoutez l'arbre des guetteurs<br>
+Ils élèvent la voix<br>
+Et ils crient d'allégresse<br>
+Car de leurs propres yeux<br>
+Ils ont vu le Seigneur<br>
+Revenir en gloire à Sion<br>
 
 </details> 
 
@@ -165,30 +164,30 @@ Ce roi fera disparaître d’Éphraïm les chars de guerre, et de Jérusalem les
 <summary> Debout resplendis </summary>
  <br>
 
-1. Debout, resplendis, car voici ta lumière,
-Et sur toi la gloire du Seigneur (bis).
-Lève les yeux et regarde au loin,
-Que ton coeur tressaille d’allégresse.
-Voici tes fils qui reviennent vers toi,
-Et tes filles portées sur la hanche.
-R.Jérusalem, Jérusalem,
-Quitte ta robe de tristesse !
-Jérusalem, Jérusalem,
-Chante et danse pour ton Dieu!
+1. Debout, resplendis, car voici ta lumière,<br>
+Et sur toi la gloire du Seigneur (bis).<br>
+Lève les yeux et regarde au loin,<br>
+Que ton coeur tressaille d’allégresse.<br>
+Voici tes fils qui reviennent vers toi,<br>
+Et tes filles portées sur la hanche.<br>
+R.Jérusalem, Jérusalem,<br>
+Quitte ta robe de tristesse !<br>
+Jérusalem, Jérusalem,<br>
+Chante et danse pour ton Dieu!<br>
 
-
-2.Toutes les nations marcheront vers ta lumière,
-Et les Roys à ta clarté naissante (bis).
-De nombreux troupeaux de chameaux te couvriront,
-Les trésors des mers afflueront vers toi,
-Ils viendront d’Epha, de Saba, de Qédar,
-Faisant monter vers Dieu la louange.
-3.Les fils d’étrangers rebâtiront tes remparts,
-Et leurs Roys passeront par tes portes (bis).
-Je ferai de toi un sujet de joie,
-On t’appellera « Ville du Seigneur ».
-Les jours de ton deuil seront tous accomplis,
-Parmi les nations tu me glorifieras.
+<br>
+2.Toutes les nations marcheront vers ta lumière,<br>
+Et les Roys à ta clarté naissante (bis).<br>
+De nombreux troupeaux de chameaux te couvriront,<br>
+Les trésors des mers afflueront vers toi,<br>
+Ils viendront d’Epha, de Saba, de Qédar,<br>
+Faisant monter vers Dieu la louange.<br>
+3.Les fils d’étrangers rebâtiront tes remparts,<br>
+Et leurs Roys passeront par tes portes (bis).<br>
+Je ferai de toi un sujet de joie,<br>
+On t’appellera « Ville du Seigneur ».<br>
+Les jours de ton deuil seront tous accomplis,<br>
+Parmi les nations tu me glorifieras.<br>
 
 </details>
 
@@ -196,16 +195,16 @@ Parmi les nations tu me glorifieras.
 <summary> Evangile selon Saint Matthieu, 5, 1:12 </summary>
  <br>
  
-Heureux les pauvres de cœur, car le royaume des Cieux est à eux.
-Heureux ceux qui pleurent, car ils seront consolés.
-Heureux les doux, car ils recevront la terre en héritage.
-Heureux ceux qui ont faim et soif de la justice, car ils seront rassasiés.
-Heureux les miséricordieux, car ils obtiendront miséricorde.
-Heureux les cœurs purs, car ils verront Dieu.
-Heureux les artisans de paix, car ils seront appelés fils de Dieu.
-Heureux ceux qui sont persécutés pour la justice, car le royaume des Cieux est à eux.
-Heureux êtes-vous si l’on vous insulte, si l’on vous persécute et si l’on dit faussement toute sorte de mal contre vous, à cause de moi.
-Réjouissez-vous, soyez dans l’allégresse, car votre récompense est grande dans les cieux ! C’est ainsi qu’on a persécuté les prophètes qui vous ont précédés.
+Heureux les pauvres de cœur, car le royaume des Cieux est à eux.<br>
+Heureux ceux qui pleurent, car ils seront consolés.<br>
+Heureux les doux, car ils recevront la terre en héritage.<br>
+Heureux ceux qui ont faim et soif de la justice, car ils seront rassasiés.<br>
+Heureux les miséricordieux, car ils obtiendront miséricorde.<br>
+Heureux les cœurs purs, car ils verront Dieu.<br>
+Heureux les artisans de paix, car ils seront appelés fils de Dieu.<br>
+Heureux ceux qui sont persécutés pour la justice, car le royaume des Cieux est à eux.<br>
+Heureux êtes-vous si l’on vous insulte, si l’on vous persécute et si l’on dit faussement toute sorte de mal contre vous, à cause de moi.<br>
+Réjouissez-vous, soyez dans l’allégresse, car votre récompense est grande dans les cieux ! C’est ainsi qu’on a persécuté les prophètes qui vous ont précédés.<br>
 
 </details>
 
@@ -213,35 +212,35 @@ Réjouissez-vous, soyez dans l’allégresse, car votre récompense est grande d
 <summary> L'Esprit Saint qui nous est donné </summary>
  <br>
 
-R. L’Esprit Saint qui nous est donné
-Fait de nous tous des fils de Dieu
-Appelés à la liberté,
-Glorifions Dieu par notre vie !
-
-1. Nés de l’amour de notre Dieu,
-Fils de lumière, sel de la terre,
-Ferments d’amour au cœur du monde
-Par la puissance de l’Esprit.
-
-2. À son image, il nous a faits
-Pour nous aimer comme il nous aime,
-Sa ressemblance reste gravée
-Au fond des cœurs de ceux qui l’aiment.
-
-3. Tous ceux qu’anime l’Esprit Saint
-Sont délivrés de toute peur
-Et désormais fils adoptifs,
-Ils sont devenus fils du Père.
-
-4. N’ayons pas peur d’être des saints
-Puisque le Christ nous a aimés,
-Ouvrons les portes à l’espérance,
-Soyons des témoins de sa paix !
-
-5. À nos côtés se tient Marie
-Mère du Christ, Mère des hommes,
-Notre soutien et notre guide
-Dans notre marche vers son Fils.
+R. L’Esprit Saint qui nous est donné<br>
+Fait de nous tous des fils de Dieu<br>
+Appelés à la liberté,<br>
+Glorifions Dieu par notre vie !<br>
+<br>
+1. Nés de l’amour de notre Dieu,<br>
+Fils de lumière, sel de la terre,<br>
+Ferments d’amour au cœur du monde<br>
+Par la puissance de l’Esprit.<br>
+<br>
+2. À son image, il nous a faits<br>
+Pour nous aimer comme il nous aime,<br>
+Sa ressemblance reste gravée<br>
+Au fond des cœurs de ceux qui l’aiment.<br>
+<br>
+3. Tous ceux qu’anime l’Esprit Saint<br>
+Sont délivrés de toute peur<br>
+Et désormais fils adoptifs,<br>
+Ils sont devenus fils du Père.<br>
+<br>
+4. N’ayons pas peur d’être des saints<br>
+Puisque le Christ nous a aimés,<br>
+Ouvrons les portes à l’espérance,<br>
+Soyons des témoins de sa paix !<br>
+<br>
+5. À nos côtés se tient Marie<br>
+Mère du Christ, Mère des hommes,<br>
+Notre soutien et notre guide<br>
+Dans notre marche vers son Fils.<br>
 
 </details>
 
@@ -249,8 +248,11 @@ Dans notre marche vers son Fils.
 <summary> Méditation : texte du Père d'Elbée </summary>
  <br>
  
-C’est un devoir pour vous de répandre autour de vous cette paix douce et joyeuse à la fois, mais, ainsi que le remarquait finement Petite Thérèse, « non pas comme des juges de paix, mais comme des anges de paix ». Ici encore l’Hostie nous parle. Le silence vivant de l’Hostie nous prêche une paix céleste. Jésus a besoin de la trouver au moins dans les cœurs de ses amis, puisque c’est l’héritage que nous avons reçu de lui. […]. Malgré les adjurations des Papes et des Évêques, malgré les efforts plus ou moins désintéressés de certains chefs d’Etat, malgré les organisations internationales, c’est la guerre partout. Et la cause profonde de ces discordes c’est l’orgueil des nations et des hommes. Chacun de nous en est, en partie, responsable, car c’est par les cœurs de ceux qui l’aiment et qu’il aura rempli de sa divine paix [...] que Jésus la rayonnera dans le monde. Le premier moyen de travailler pour la paix du monde, c’est de laisser Jésus l’établir dans nos âmes.
-Croire à l’amour – Père d’Elbée
+C’est un devoir pour vous de répandre autour de vous cette paix douce et joyeuse à la fois, mais, ainsi que le remarquait finement Petite Thérèse, « non pas comme des juges de paix, mais comme des anges de paix ». Ici encore l’Hostie nous parle. Le silence vivant de l’Hostie nous prêche une paix céleste. Jésus a besoin de la trouver au moins dans les cœurs de ses amis, puisque c’est l’héritage que nous avons reçu de lui. […]. <br>
+
+<br>Malgré les adjurations des Papes et des Évêques, malgré les efforts plus ou moins désintéressés de certains chefs d’Etat, malgré les organisations internationales, c’est la guerre partout. Et la cause profonde de ces discordes c’est l’orgueil des nations et des hommes. Chacun de nous en est, en partie, responsable, car c’est par les cœurs de ceux qui l’aiment et qu’il aura rempli de sa divine paix [...] que Jésus la rayonnera dans le monde. Le premier moyen de travailler pour la paix du monde, c’est de laisser Jésus l’établir dans nos âmes.
+<br>
+<br>Croire à l’amour – Père d’Elbée
 
 </details>
 
@@ -260,16 +262,16 @@ Croire à l’amour – Père d’Elbée
 <summary>Livre d'Isaie (Is 11, 1-10)</summary>
  <br>
  
-Un rameau sortira de la souche de Jessé, père de David, un rejeton jaillira de ses racines.
- Sur lui reposera l’esprit du Seigneur : esprit de sagesse et de discernement, esprit de conseil et de force, esprit de connaissance et de crainte du Seigneur 
-– qui lui inspirera la crainte du Seigneur. Il ne jugera pas sur l’apparence ; il ne se prononcera pas sur des rumeurs.
- Il jugera les petits avec justice ; avec droiture, il se prononcera en faveur des humbles du pays. Du bâton de sa parole, il frappera le pays ; du souffle de ses lèvres, il fera mourir le méchant.
- La justice est la ceinture de ses hanches ; la fidélité est la ceinture de ses reins.
- Le loup habitera avec l’agneau, le léopard se couchera près du chevreau, le veau et le lionceau seront nourris ensemble, un petit garçon les conduira.
+Un rameau sortira de la souche de Jessé, père de David, un rejeton jaillira de ses racines.<br>
+Sur lui reposera l’esprit du Seigneur : esprit de sagesse et de discernement, esprit de conseil et de force, esprit de connaissance et de crainte du Seigneur qui lui inspirera la crainte du Seigneur. Il ne jugera pas sur l’apparence ; il ne se prononcera pas sur des rumeurs. <br>
+<br>
+ Il jugera les petits avec justice ; avec droiture, il se prononcera en faveur des humbles du pays. Du bâton de sa parole, il frappera le pays ; du souffle de ses lèvres, il fera mourir le méchant.<br>
+ La justice est la ceinture de ses hanches ; la fidélité est la ceinture de ses reins.<br>
+ Le loup habitera avec l’agneau, le léopard se couchera près du chevreau, le veau et le lionceau seront nourris ensemble, un petit garçon les conduira.<br>
 La vache et l’ourse auront même pâture, leurs petits auront même gîte. Le lion, comme le bœuf, mangera du fourrage.
-Le nourrisson s’amusera sur le nid du cobra ; sur le trou de la vipère, l’enfant étendra la main.
-Il n’y aura plus de mal ni de corruption sur toute ma montagne sainte ; car la connaissance du Seigneur remplira le pays comme les eaux recouvrent le fond de la mer.
-Ce jour-là, la racine de Jessé, père de David, sera dressée comme un étendard pour les peuples, les nations la chercheront, et la gloire sera sa demeure.
+Le nourrisson s’amusera sur le nid du cobra ; sur le trou de la vipère, l’enfant étendra la main.<br>
+Il n’y aura plus de mal ni de corruption sur toute ma montagne sainte ; car la connaissance du Seigneur remplira le pays comme les eaux recouvrent le fond de la mer.<br>
+Ce jour-là, la racine de Jessé, père de David, sera dressée comme un étendard pour les peuples, les nations la chercheront, et la gloire sera sa demeure.<br>
 
 </details>
 
@@ -295,79 +297,82 @@ Ce jour-là, la racine de Jessé, père de David, sera dressée comme un étenda
  <br>
 </details>
 
-### Ado 5 : prière de marcel van
-
 <details>
 <summary> Prière de Marcel Van </summary>
  <br>
 
- Seigneur Jésus, aie compassion de la France,
-daigne l'étreindre dans ton Amour
-et lui en montrer toute la tendresse.
-Fais que, remplie d'Amour pour toi,
-elle contribue à te faire aimer de toutes les nations de la terre.
-Ô Amour de Jésus, nous prenons ici l'engagement de te rester à jamais fidèles
-et de travailler d'un cœur ardent à répandre ton Règne dans tout l'univers.
-Amen
+Seigneur Jésus, aie compassion de la France,<br>
+daigne l'étreindre dans ton Amour<br>
+et lui en montrer toute la tendresse.<br>
+Fais que, remplie d'Amour pour toi,<br>
+elle contribue à te faire aimer de toutes les nations de la terre.<br>
+Ô Amour de Jésus, nous prenons ici l'engagement de te rester à jamais fidèles<br>
+et de travailler d'un cœur ardent à répandre ton Règne dans tout l'univers.<br>
+<br>
+Amen<br>
 
 </details>
-
-# Saint Pape Jean XXIII (1881-1963) prière à Jésus prince de la paix
 
 <details>
 <summary> Prière à Jésus Prince de la Paix </summary>
  <br>
  
-« Ô Prince de la paix, Jésus ressuscité, regarde avec bienveillance l'humanité entière. De Toi seul, elle attend aide et secours. Comme au temps de Ta vie terrestre, toujours Tu préfères les petits, les humbles, ceux qui souffrent. Tu vas toujours au-devant des pécheurs. Fais que tous T'invoquent et Te trouvent, pour avoir en Toi la voie, la vérité et la vie. Accorde-nous Ta paix, Agneau immolé pour notre salut : « Agneau de Dieu qui enlèves le péché du monde, donne-nous la Paix ! » Éloigne du cœur des hommes tout ce qui peut compromettre leur paix, confirme-les dans la vérité, dans la justice et dans l'amour fraternel. Éclaire les dirigeants ; que leurs efforts, en vue du bien-être des peuples, soient unis à l'effort en vue de leur assurer la paix. Enflamme la volonté de tous afin de renverser les barrières qui divisent, afin de renforcer les liens de la charité. Enflamme la volonté de tous afin que tous soient prêts à comprendre, à compatir, à pardonner, afin que tous soient unis dans Ton nom, et que triomphe dans les cœurs, les familles, le monde entier, la paix, Ta paix. Ainsi soit-il. »
-
+« Ô Prince de la paix, Jésus ressuscité, regarde avec bienveillance l'humanité entière. De Toi seul, elle attend aide et secours. Comme au temps de Ta vie terrestre, toujours Tu préfères les petits, les humbles, ceux qui souffrent. Tu vas toujours au-devant des pécheurs. Fais que tous T'invoquent et Te trouvent, pour avoir en Toi la voie, la vérité et la vie. Accorde-nous Ta paix, Agneau immolé pour notre salut : « Agneau de Dieu qui enlèves le péché du monde, donne-nous la Paix ! » <br>
+<br>
+Éloigne du cœur des hommes tout ce qui peut compromettre leur paix, confirme-les dans la vérité, dans la justice et dans l'amour fraternel. Éclaire les dirigeants ; que leurs efforts, en vue du bien-être des peuples, soient unis à l'effort en vue de leur assurer la paix. Enflamme la volonté de tous afin de renverser les barrières qui divisent, afin de renforcer les liens de la charité. Enflamme la volonté de tous afin que tous soient prêts à comprendre, à compatir, à pardonner, afin que tous soient unis dans Ton nom, et que triomphe dans les cœurs, les familles, le monde entier, la paix, Ta paix. Ainsi soit-il. »<br>
+<br>
+Saint Pape Jean XXIII (1881-1963)
+<br>
 </details>
 
-# Prière de Jean Paul II, le 8 décembre 2003,
-
 <details>
-<summary> Paroles </summary>
+<summary> Prière de Jean Paul II </summary>
  <br>
  
-Reine de la paix, prie pour nous!
-C'est vers Toi que se tourne notre regard
-avec la plus grande anxiété,
-à Toi que nous avons recours
-avec une confiance plus insistante
-en ces temps marqués
-par de nombreuses incertitudes et craintes
-pour le destin présent et à venir de notre planète.
-Vers Toi,
-source de l'humanité rachetée par le Christ,
-finalement libérée de l'esclavage
-du mal et du péché,
-nous élevons ensemble
-une supplication pressante et confiante:
-Écoute le cri de douleur des victimes
-des guerres et de tant de formes de violence,
-qui ensanglantent la terre.
-Dissipe les ténèbres de la tristesse
-et de la solitude,
-de la haine et de la vengeance.
-Ouvre l'esprit et le coeur de tous
-à la confiance et au pardon!
-Reine de la paix, prie pour nous!
-Mère de Miséricorde et d'espérance,
-obtiens pour les hommes
-et les femmes du troisième millénaire
-le don précieux de la paix:
-la paix dans les coeurs et dans les familles,
-dans les communautés et entre les peuples;
-la paix en particulier pour ces nations
-où l'on continue chaque jour
-à se battre et à mourir.
-Fais que chaque être humain,
-de toute race et de toute culture,
-rencontre et accueille Jésus,
-venu sur la Terre dans le mystère de Noël
-pour nous donner "sa" paix.
-Mère, Reine de la paix,
-donne-nous le Christ, véritable paix du monde !
-Amen
+Reine de la paix, prie pour nous!<br>
+C'est vers Toi que se tourne notre regard<br>
+avec la plus grande anxiété,<br>
+à Toi que nous avons recours<br>
+avec une confiance plus insistante<br>
+en ces temps marqués<br>
+par de nombreuses incertitudes et craintes<br>
+pour le destin présent et à venir de notre planète.<br>
+Vers Toi,<br>
+source de l'humanité rachetée par le Christ,<br>
+finalement libérée de l'esclavage<br>
+du mal et du péché,<br>
+nous élevons ensemble<br>
+une supplication pressante et confiante:<br>
+Écoute le cri de douleur des victimes<br>
+des guerres et de tant de formes de violence,<br>
+qui ensanglantent la terre.<br>
+Dissipe les ténèbres de la tristesse<br>
+et de la solitude,<br>
+de la haine et de la vengeance.<br>
+Ouvre l'esprit et le coeur de tous<br>
+à la confiance et au pardon!<br>
+Reine de la paix, prie pour nous!<br>
+Mère de Miséricorde et d'espérance,<br>
+obtiens pour les hommes<br>
+et les femmes du troisième millénaire<br>
+le don précieux de la paix:<br>
+la paix dans les coeurs et dans les familles,<br>
+dans les communautés et entre les peuples;<br>
+la paix en particulier pour ces nations<br>
+où l'on continue chaque jour<br>
+à se battre et à mourir.<br>
+Fais que chaque être humain,<br>
+de toute race et de toute culture,<br>
+rencontre et accueille Jésus,<br>
+venu sur la Terre dans le mystère de Noël<br>
+pour nous donner "sa" paix.<br>
+Mère, Reine de la paix,<br>
+donne-nous le Christ, véritable paix du monde !<br>
+<br>
+Amen<br>
+<br>
+Prière de Jean Paul II, le 8 décembre 2003
+<br>
 
 </details>
  
