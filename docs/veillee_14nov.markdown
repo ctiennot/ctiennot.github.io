@@ -46,7 +46,7 @@ De larmes, il n’y aura plus.<br>
 </details>
 
 <details>
-<summary> Paroles du pape François lors de la veillée de prière pour la paix au vatican le 7 septembre 2013 </summary>
+<summary> Paroles du pape François </summary>
  <br>
 « Dans le cœur et dans la pensée de Dieu notre monde est la 'maison de l’harmonie et de la paix', et est le lieu où tous peuvent trouver leur place et se sentir 'chez soi', parce que cela est « bon ». Tout le créé forme un ensemble harmonieux, bon, mais surtout les humains, faits à l’image et à la ressemblance de Dieu, sont une unique famille, dans laquelle les relations sont marquées par une fraternité réelle non seulement proclamée en paroles : l’un et l’autre sont le frère et la sœur à aimer, et la relation avec Dieu qui est amour, fidélité, bonté se reflète sur toutes les relations entre les êtres humains et apporte l’harmonie à la création tout entière. Le monde de Dieu est un monde dans lequel chacun se sent responsable de l’autre, du bien de l’autre. […]<br>
 
