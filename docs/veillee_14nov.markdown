@@ -4,8 +4,6 @@ title: Veillée de prière pour la Paix dans le monde (14 novembre 2023)
 permalink: /veillee_14nov/
 ---
 
-# Mot de bienvenue
-
 # Louange
  
 <details>
@@ -92,7 +90,7 @@ Remettez à Dieu votre vie<br>
 Ayez foi en sa providence,<br>
 C’est son amour qui nous conduit pour vivre.<br>
 <br>
-</details
+</details>
 
 <details>
 <summary> Prière de Saint François d'Assise </summary>
