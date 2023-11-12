@@ -3,8 +3,9 @@ layout: page
 title: Veillée de prière pour la Paix dans le monde (14 novembre 2023)
 permalink: /veillee_14nov/
 ---
+# Veillée de prière pour la paix dans le monde (14 novembre)
 
-# Louange
+## Louange
  
 <details>
 <summary> Que vienne ton règne (page 29) </summary>
@@ -253,7 +254,7 @@ Croire à l’amour – Père d’Elbée
 
 </details>
 
-# Chant 6 : pour tes merveilles page 27
+### Chant 6 : pour tes merveilles page 27
 
 <details>
 <summary>Livre d'Isaie (Is 11, 1-10)</summary>
@@ -272,17 +273,29 @@ Ce jour-là, la racine de Jessé, père de David, sera dressée comme un étenda
 
 </details>
 
-# Adoration
+## Adoration
 
-# Ado 1 prosternez-vous page 28
+<details>
+<summary> Prosternez-vous (page 28)</summary>
+ <br>
+</details>
 
-# Ado 2  : vous qui avez soif page 39
+<details>
+<summary> Vous qui avez soif (page 39) </summary>
+ <br>
+</details>
 
-# Ado 3 : Ubi caritas page 34
+<details>
+<summary> Ubi caritas (page 34)</summary>
+ <br>
+</details>
 
-# Ado 4 : o vrai corps de jésus
+<details>
+<summary> Ô vrai Corps de Jésus </summary>
+ <br>
+</details>
 
-# Ado 5 : prière de marcel van
+### Ado 5 : prière de marcel van
 
 <details>
 <summary> Prière de Marcel Van </summary>
