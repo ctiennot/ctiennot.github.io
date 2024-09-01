@@ -1,3 +1,9 @@
+---
+layout: page
+title: Veillée de prière pour la Paix dans le monde (14 novembre 2023)
+permalink: /sailing/glenans_2024
+---
+
 # Stage Glenans niveau 2 - Perfectionnement croisière
 
 Dates: 26 août - 30 août 2024
