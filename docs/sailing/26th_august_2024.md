@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Veillée de prière pour la Paix dans le monde (14 novembre 2023)
+title: Stage Glenans niveau 2 - Perfectionnement croisière
 permalink: /sailing/glenans_2024
 ---
 
