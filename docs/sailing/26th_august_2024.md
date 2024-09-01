@@ -93,6 +93,10 @@ Equipiers sollicités: numéro 1 au mât, au piano, barreur
 - viremement de bord "raté" (le génois n'est pas passé et reste à contre)
 - braquer la barre ensuite
 
+### Hissage de spi symétrique
+
+### Tangonnage du Génois
+
 ### Homme à la mer (HLM)
 
 Situation: sans remettre le moteur, l'HLM tombe au prés.
