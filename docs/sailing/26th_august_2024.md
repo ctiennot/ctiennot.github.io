@@ -4,7 +4,7 @@ title: Stage Glenans niveau 2 - Perfectionnement croisière
 permalink: /sailing/glenans_2024
 ---
 
-[<- back](https://ctiennot.github.io/sailing/)
+[<- back](.)
 
 # Stage Glenans niveau 2 - Perfectionnement croisière
 
