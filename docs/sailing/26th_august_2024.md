@@ -4,6 +4,8 @@ title: Stage Glenans niveau 2 - Perfectionnement croisière
 permalink: /sailing/glenans_2024
 ---
 
+[<- back](..)
+
 # Stage Glenans niveau 2 - Perfectionnement croisière
 
 Dates: 26 août - 30 août 2024
