@@ -115,3 +115,6 @@ NB: "réussir" la manoeuvre veut dire arriver à vitesse 0, pas passer dessus en
 
 - Au près: abattre pour faire giter
 - La gv fait lofer le genois abattre (propulsion)
+
+<img width="1126" alt="image" src="https://github.com/user-attachments/assets/e15053b2-d080-481a-ac86-b74750024c48">
+
