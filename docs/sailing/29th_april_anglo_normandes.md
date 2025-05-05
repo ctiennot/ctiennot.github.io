@@ -41,8 +41,10 @@ Traversée vers Saint Cast le Guildo. Pas mal de Spi.
 
 Retour à Saint Quay en passant Fréhel avec le bon courant. Force 6 avec > 20 noeuds de vent mais soleil. Chute en cours de nav de la descente.
 
-![WhatsApp Image 2025-05-05 at 21 04 40](https://github.com/user-attachments/assets/e3baccc8-a1a3-42e0-a395-acbde64c35c7)
 
 ![WhatsApp Image 2025-05-05 at 21 04 22](https://github.com/user-attachments/assets/683f3c07-d6f8-4470-8908-c76c7f93b992)
+
+![WhatsApp Image 2025-05-05 at 21 04 40](https://github.com/user-attachments/assets/e3baccc8-a1a3-42e0-a395-acbde64c35c7)
+
 
 
