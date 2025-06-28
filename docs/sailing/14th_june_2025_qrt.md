@@ -1,6 +1,6 @@
 ---
 layout: page
-title: week-end Qube à la Trinité
+title: Week-end Qube à la Trinité
 permalink: /sailing/qube_trin_2025
 ---
 

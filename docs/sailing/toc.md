@@ -6,9 +6,12 @@ permalink: /sailing/
 
 # 2025
 
+[Week-end La Trinité Qube (14-15 juin 2025)](qube_trin_2025)
+
 [Croisière Anglo-Normandes (avril-mai 2025)](anglo_normandes_2025)
 
-Week-end Marseilles QRT.
+Week-end Marseilles Qube
+
 
 # 2024 
 
