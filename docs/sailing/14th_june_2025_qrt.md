@@ -22,7 +22,7 @@ AR La Trinité Belle-Île Le Palais du Samedi au Dimanche, petite régate, aller
 
 ## Récit
 
-![alt text](<WhatsApp Image 2025-06-28 à 18.52.36_e41f1f91.jpg>)
+![alt text](image-1.png)
 
 Huit de nos marins, répartis sur deux Pogo 30 ont écumé la baie de Quiberon samedi et dimanche !
 
@@ -36,6 +36,6 @@ Le dimanche, nos deux bâtiments ont régaté sur un parcours d'une quinzaine de
 Rien de mieux que ces mots de Victor Hugo dans les travailleurs de la mer pour résumer l'état d'esprit de nos gabiers le dimanche soir :
 "On contemplait la mer, on écoutait le vent, on se sentait gagné par l'assoupissement de l'extase. Quand les yeux sont remplis d'un excès de beauté et de lumière, c'est une volupté de les fermer."
 
-![alt text](<WhatsApp Image 2025-06-28 à 18.52.36_31851243.jpg>)
+![alt text](image-2.png)
 
-![alt text](<WhatsApp Image 2025-06-28 à 18.52.36_fcd4c0a2.jpg>)
+![alt text](image-3.png)
