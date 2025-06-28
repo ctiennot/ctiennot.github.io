@@ -118,3 +118,4 @@ NB: "réussir" la manoeuvre veut dire arriver à vitesse 0, pas passer dessus en
 
 <img width="1126" alt="image" src="https://github.com/user-attachments/assets/e15053b2-d080-481a-ac86-b74750024c48">
 
+![alt text](image-4.png)
