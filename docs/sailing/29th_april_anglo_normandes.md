@@ -47,4 +47,10 @@ Retour à Saint Quay en passant Fréhel avec le bon courant. Force 6 avec > 20 n
 ![WhatsApp Image 2025-05-05 at 21 04 40](https://github.com/user-attachments/assets/e3baccc8-a1a3-42e0-a395-acbde64c35c7)
 
 
+![alt text](image-10.png)
 
+![alt text](image-11.png)
+
+![alt text](image-12.png)
+![alt text](image-13.png)
+![alt text](image-14.png)
