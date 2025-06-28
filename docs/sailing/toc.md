@@ -15,7 +15,7 @@ Week-end Marseilles Qube
 
 # 2024 
 
-Week-end Lorient
+[Week-end Lorient (12-13 octobre 2024)](lorient)
 
 [Stage Glénans niveau 2 (août 2024)](glenans_2024)
 
