@@ -6,13 +6,17 @@ permalink: /sailing/
 
 # 2025
 
-Stage Glénans niveau 3 Paimpol
+Régate Qube (Septembre 2025)
+
+Stage Glénans niveau 3 Conduites - Manoeuvres - Île d'Arz (septembre 2025)
+
+Stage Glénans niveau 3 Équipier polyvalent - Paimpol (août 2025)
 
 [Week-end La Trinité Qube (14-15 juin 2025)](qube_trin_2025)
 
 [Croisière Anglo-Normandes (avril-mai 2025)](anglo_normandes_2025)
 
-Week-end Marseilles Qube
+Week-end Marseilles Qube (Avril 2025)
 
 
 # 2024 
