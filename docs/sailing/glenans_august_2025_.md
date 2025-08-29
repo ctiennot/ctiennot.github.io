@@ -59,9 +59,9 @@ Tourelles de Pen ar Guezec:
 En pratique : on est allé à l’Ouest pour des exercices et on a dû remonter au vent d’Est pendant un moment en tirant des bords
 
 Exercice de relèvement avec Nathan:
-165 chateau d'eau
-207 Rocher
-224 Verte (pas sûr de laquelle sur la carte, trait gris ?)
+- 165 chateau d'eau
+- 207 Rocher
+- 224 Balise verte tribord (pas sûr de laquelle sur la carte, trait gris ?)
 
 <details>
 <summary>Carte</summary>
@@ -134,7 +134,9 @@ Passage entre les roches de St Quay et St Quay (je gardais aligné la pointe de 
 ### Mercredi 27 août (Binic vers Lézardrieux, temps moyen, de la pluie)
 
 Cardinal binic à tribord
+
 Puis la roselière
+
 Puis la longue
 
 <details>
@@ -145,6 +147,7 @@ Puis la longue
 Dépasser alignement Les hors avec Caffa sur babord : quand Les hors passe à droite de Caffa, virer, viser cap 350
 
 Cap 300
+
 La mauve (ile) à babord
 
 Un ou deux bords jusqu'à voir Bréhat et le Ferlas.
