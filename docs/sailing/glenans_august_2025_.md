@@ -75,7 +75,7 @@ Rester dans le secteur blanc du phare
 
 <details>
 <summary>Carte</summary>
-    <img src="/assets/image-23.png" alt="Description" width="400">
+    <img src="/docs/sailing/image-23.png" alt="Description" width="400">
 </details>
 
 Alignement à 224,8 des deux phares
