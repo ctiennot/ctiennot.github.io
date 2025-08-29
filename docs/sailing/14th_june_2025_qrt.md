@@ -8,7 +8,7 @@ permalink: /sailing/qube_trin_2025
 
 # Croisière Dans Les Anglo-Normandes
 
-Dates: 29 Avril - 4 Mai 2024
+Dates: 29 Avril - 4 Mai 2025
 
 Equipiers: Houda, Thomas, Sirine, Clément
 

@@ -10,7 +10,7 @@ Régate Qube (Septembre 2025)
 
 Stage Glénans niveau 3 Conduites - Manoeuvres - Île d'Arz (septembre 2025)
 
-Stage Glénans niveau 3 Équipier polyvalent - Paimpol (août 2025)
+[Stage Glénans niveau 3 Équipier polyvalent - Paimpol (août 2025)](glenans_august_2025)
 
 [Week-end La Trinité Qube (14-15 juin 2025)](qube_trin_2025)
 
