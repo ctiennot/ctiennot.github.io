@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Week-end Qube à la Trinité
+title: Glénans Niveau 3 Équipier polyvalent Paimpol
 permalink: /sailing/glenans_august_2025
 ---
 
@@ -75,7 +75,7 @@ Rester dans le secteur blanc du phare
 
 <details>
 <summary>Carte</summary>
-![alt text](image-23.png)
+    <img src="image-23.png" alt="Description" width="400">
 </details>
 
 Alignement à 224,8 des deux phares
@@ -146,17 +146,24 @@ Puis remontée dans le Trieux après quelques exercices dans la **Rade de Pommel
 Manoeuvres de port :  accostage au ponton et 360
 
 Description du 360: 
+
 - coup de fouet vers l'avant avec la barre braquée à tribord
+
 - puis léger coup de fouet vers l'arrière en repassant bien par point mort (toujours pour éviter d'abîmer le moteur)
+
 - coup de fouet vers l'avant en inversant la barre pour finir le tour
 
 
 ## Notes perso
 
 Bosse empointure : tend la GV sur la bordure
+
 Regle de cras et -180 pour relèvements quand on les voit de l'arrière.
+
 Gimgembre confit pour le mal de mer !
+
 Pilote côtier très utile pour la nav, les passes ou les ports.
+
 Feux à secteurs dans la nuit pour se repérer.
 
 
@@ -176,13 +183,19 @@ NB: **Guindant / bordure / chute** pour hisser actionnés par drisse, bosse empo
 Ici chute puis bordure puis guindant:
 
 Choquer la balancine et le pataras
+
 Choquer halebas + GV (chute)
 
+
+
 Choquer les ris (ouvrir taquet) + bosse d empointure (bordure)
+
 Laisser filer la drisse (reprendre légèrement sur le winch pr ouvrir le taquet)
+
 Numéro 1 accroche l’anneau
 
 Puis inverse pour finir la manoeuvre : g b c 
+
 Reprendre la balancine, le pataras
 
 
@@ -200,19 +213,28 @@ Pre requis: eau à courir, avoir gréé, etre au grand largue, winchs prets
 Actions
 
 Brasser (contre ecoute ?)
+
 Etarquer balancine tangon + border le halebas
+
 Hisser drisse spi
+
 « En tete »
+
 Reprendre l’ecoute
+
 Affaler la VA
 
 
 ### Affalage spi:
 
 Remets VA
+
 Choquer ecoutes
+
 Numero 1 prend la bordure et devente le spi
+
 Percute la drisse et numero range dans le sac
+
 Vhoquer balancine et hale bas du tangon et le decrocher
 
 
@@ -220,5 +242,7 @@ Vhoquer balancine et hale bas du tangon et le decrocher
 ## Recommendation de stages dans l'ordre (LM)
 
 Conduite manoeuvre
+
 Spe manoeuvre pogo Vannes / Paimpol
+
 3 intensif sur l’autre base
