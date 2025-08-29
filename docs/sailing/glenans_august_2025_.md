@@ -36,13 +36,25 @@ A cause de la marée : contourner les Héaux de Bréhat à cause de la marée, p
 
 Puis au petit pen ar Guezec prendre 215.5 partie nord de roch skeivec par le phare de la corne
 
-![alt text](image-18.png)
+<details>
+<summary>Carte</summary>
+    <img src="/docs/sailing/image-18.png" alt="" width="400">
+</details>
 
-![alt text](image-19.png)
+
+<details>
+<summary>Carte</summary>
+    <img src="/docs/sailing/image-19.png" alt="" width="400">
+</details>
+
 
 Tourelles de Pen ar Guezec:
 
-![alt text](image-20.png)
+<details>
+<summary>Carte</summary>
+    <img src="/docs/sailing/image-20.png" alt="" width="400">
+</details>
+
 
 En pratique : on est allé à l’Ouest pour des exercices et on a dû remonter au vent d’Est pendant un moment en tirant des bords
 
@@ -51,15 +63,23 @@ Exercice de relèvement avec Nathan:
 207 Rocher
 224 Verte (pas sûr de laquelle sur la carte, trait gris ?)
 
-![alt text](image-21.png)
+<details>
+<summary>Carte</summary>
+    <img src="/docs/sailing/image-21.png" alt="" width="400">
+</details>
+
 
 Arrivée à Treguier vers 20h45.
 
 ### Lundi 25 août (Tréguier vers port blanc)
 
 Départ de Tréguier vers Port Blanc au mouillage,
-Exercices HLM "ralingue":
-![alt text](image-22.png)
+Exercices HLM "ralingue"
+
+<details>
+<summary>Détails du HLM</summary>
+    <img src="/docs/sailing/image-22.png" alt="" width="400">
+</details>
 
 Gréage et hissage bref du Spi.
 
@@ -75,21 +95,21 @@ Rester dans le secteur blanc du phare
 
 <details>
 <summary>Carte</summary>
-    <img src="/docs/sailing/image-23.png" alt="Description" width="400">
+    <img src="/docs/sailing/image-23.png" alt="" width="400">
 </details>
 
 Alignement à 224,8 des deux phares
 
 <details>
 <summary>Carte</summary>
-![alt text](image-24.png)
+<img src="/docs/sailing/image-24.png" alt="" width="400">
 </details>
 
 Phare pour la grande passe
 
 <details>
 <summary>Carte</summary>
-![alt text](image-25.png)
+<img src="/docs/sailing/image-25.png" alt="" width="400">
 </details>
 
 Prendre à l’est à 90 degré, eviter la jument (cardinal Nord qui flashe en continue)
@@ -98,7 +118,7 @@ Phare des Heaut Breat confirme notre position.
 
 <details>
 <summary>Carte</summary>
-![alt text](image-26.png)
+<img src="/docs/sailing/image-26.png" alt="" width="400">
 </details>
 
 Mouillage pour midi dans **l'Anse de Bréhec**. Départ de feu sur la côt après l'Anse.
@@ -107,7 +127,7 @@ Passage entre les roches de St Quay et St Quay (je gardais aligné la pointe de 
 
 <details>
 <summary>Carte</summary>
-![alt text](image-27.png)
+<img src="/docs/sailing/image-27.png" alt="" width="400">
 </details>
 
 
@@ -119,7 +139,7 @@ Puis la longue
 
 <details>
 <summary>Carte</summary>
-![alt text](image-28.png)
+<img src="/docs/sailing/image-28.png" alt="" width="400">
 </details>
 
 Dépasser alignement Les hors avec Caffa sur babord : quand Les hors passe à droite de Caffa, virer, viser cap 350
@@ -133,14 +153,14 @@ Dans la pluie, par vent d'Est ou Sud-Est nous avons passé le Ferlat après pas 
 
 <details>
 <summary>Carte</summary>
-![alt text](image-29.png)
+<img src="/docs/sailing/image-29.png" alt="" width="400">
 </details>
 
 Puis remontée dans le Trieux après quelques exercices dans la **Rade de Pommelin**.
 
 <details>
 <summary>Carte</summary>
-![alt text](image-30.png)
+<img src="/docs/sailing/image-30.png" alt="" width="400">
 </details>
 
 ### Jeudi 28 août (Lézardrieux)
@@ -248,3 +268,10 @@ Conduite manoeuvre
 Spe manoeuvre pogo Vannes / Paimpol
 
 3 intensif sur l’autre base
+
+
+![alt text](<WhatsApp Image 2025-08-28 à 21.41.11_80bb9fce.jpg>)
+
+Les sept îles:
+
+![alt text](<WhatsApp Image 2025-08-28 à 21.41.20_1ed85463.jpg>)
