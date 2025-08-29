@@ -269,9 +269,9 @@ Spe manoeuvre pogo Vannes / Paimpol
 
 3 intensif sur l’autre base
 
+![alt text](image-31.png)
 
-![alt text](<WhatsApp Image 2025-08-28 à 21.41.11_80bb9fce.jpg>)
 
 Les sept îles:
 
-![alt text](<WhatsApp Image 2025-08-28 à 21.41.20_1ed85463.jpg>)
+![alt text](image-32.png)
