@@ -8,7 +8,7 @@ permalink: /sailing/
 
 Régate Qube (Septembre 2025)
 
-Stage Glénans niveau 3 Conduites - Manoeuvres - Île d'Arz (septembre 2025)
+[Stage Glénans niveau 3 Conduites - Manoeuvres - Île d'Arz (septembre 2025)](glenans_sept_2025)
 
 [Stage Glénans niveau 3 Équipier polyvalent - Paimpol (août 2025)](glenans_august_2025)
 
