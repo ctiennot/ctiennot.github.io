@@ -4,6 +4,10 @@ title: Navigations, stages et camps de voile
 permalink: /sailing/
 ---
 
+# 2026
+
+Brest (page a ajouter)
+
 # 2025
 
 Régate Qube (Septembre 2025)
