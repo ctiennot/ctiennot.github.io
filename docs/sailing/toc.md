@@ -6,7 +6,9 @@ permalink: /sailing/
 
 # 2026
 
-Brest (page a ajouter)
+[Stage Glénans Spé Manœuvre Pogo - Golfe du Morbihan, Houat-Hœdic (22-27 août 2026)](glenans_vannes_2026)
+
+[Croisière en Mer d'Iroise - Brest (14-17 mai 2026)](brest_june_2026)
 
 # 2025
 
