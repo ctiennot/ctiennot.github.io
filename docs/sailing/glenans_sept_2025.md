@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Glénans Niveau 3 Équipier polyvalent Paimpol
+title: Glénans Niveau 3 Île d'Arz - Conduite Manœuvre
 permalink: /sailing/glenans_sept_2025
 ---
 

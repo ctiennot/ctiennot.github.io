@@ -10,7 +10,7 @@ permalink: /sailing/glenans_2024
 
 Dates: 26 août - 30 août 2024
 
-Equipiers: Louis-Marie, Nolwenn, Romain, Clément, Clément, Pablo (moniteur)
+Equipiers: Louis-Marie, Nolwenn, Romain, Clément, Pablo (moniteur)
 
 Monocoque: Gwalarn (Elan 310)
 

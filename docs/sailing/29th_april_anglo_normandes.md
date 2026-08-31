@@ -8,9 +8,9 @@ permalink: /sailing/anglo_normandes_2025
 
 # Croisière Dans Les Anglo-Normandes
 
-Dates: 29 Avril - 4 Mai 2024
+Dates: 29 Avril - 4 Mai 2025
 
-Equipiers: Louis-Marie, Adrien (skippeur), Blandine, Blandine, Marie-Alix, Clément, Capucine, Balthazar
+Equipiers: Louis-Marie, Adrien (skippeur), Blandine, Marie-Alix, Clément, Capucine, Balthazar
 
 Monocoque: Corail (Sun Odyssey 379)
 

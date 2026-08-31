@@ -6,9 +6,9 @@ permalink: /sailing/qube_trin_2025
 
 [<- back](.)
 
-# Croisière Dans Les Anglo-Normandes
+# Week-end Qube à la Trinité
 
-Dates: 29 Avril - 4 Mai 2025
+Dates: 14 - 15 juin 2025
 
 Equipiers: Houda, Thomas, Sirine, Clément
 
