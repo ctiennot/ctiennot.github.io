@@ -4,37 +4,60 @@ title: Navigations, stages et camps de voile
 permalink: /sailing/
 ---
 
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+
 <style>
-@import url("https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css");
-.sail-layout{display:flex;gap:24px;align-items:flex-start;margin-top:14px}
-.sail-col{flex:1 1 50%;min-width:0}
-.sail-mapwrap{flex:1 1 50%;position:sticky;top:16px}
-#sailmap{height:calc(100vh - 96px);min-height:420px;border:1px solid rgba(128,128,128,.4);border-radius:10px;background:#12202a}
+.sail-bleed{margin-top:14px}
+.sail-layout{display:flex;gap:24px;align-items:flex-start}
+.sail-col{flex:1 1 44%;min-width:0}
+.sail-mapwrap{flex:1 1 56%;position:sticky;top:16px}
+#sailmap{height:calc(100vh - 96px);min-height:460px;border:1px solid rgba(128,128,128,.4);border-radius:10px}
 .sail-maphint{font-size:11px;opacity:.6;margin:6px 2px 0}
 .sail-year{margin:24px 0 0;font-size:1.5em}
 .sail-year:first-of-type{margin-top:0}
-.sail-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:14px;margin:10px 0 4px}
+.sail-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:14px;margin:10px 0 4px}
 .sail-card{display:flex;flex-direction:column;border:1px solid rgba(128,128,128,.35);border-left:4px solid var(--c,rgba(128,128,128,.4));border-radius:8px;overflow:hidden;background:rgba(128,128,128,.08);color:inherit;text-decoration:none;transition:transform .12s,box-shadow .12s}
 a.sail-card:hover{transform:translateY(-3px);box-shadow:0 8px 22px rgba(0,0,0,.33)}
 .sail-card.hl{box-shadow:0 0 0 2px var(--c)}
-.sail-card .im{height:130px;background-size:cover;background-position:center;background-color:#12202a}
+.sail-card .im{height:120px;background-size:cover;background-position:center;background-color:#12202a}
 .sail-card .bd{padding:9px 11px 11px}
 .sail-card .ti{font-weight:600;line-height:1.25;font-size:.95em}
 .sail-card .me{display:block;margin-top:4px;font-size:11.5px;opacity:.7;line-height:1.35}
 .sail-card[data-trip] .me::before{content:"";display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--c);margin-right:6px;vertical-align:1px}
 .sail-card.todo{opacity:.45}
 .sail-card.todo .im{display:flex;align-items:center;justify-content:center;font-size:11px;letter-spacing:.09em;text-transform:uppercase}
-.leaflet-container{font:inherit}
-@media(max-width:900px){.sail-layout{flex-direction:column}.sail-mapwrap{position:static;width:100%;order:-1}#sailmap{height:320px;min-height:0}}
+
+/* break out of the theme's narrow content column on desktop */
+@media(min-width:1025px){
+  .sail-bleed{position:relative;left:50%;margin-left:-50vw;width:100vw;box-sizing:border-box}
+  .sail-layout{max-width:1360px;margin:0 auto;padding:0 32px 0 clamp(32px,calc(50vw - 200px),340px);box-sizing:border-box}
+}
+
+/* tablet / mobile: single column, thumbnails first, map at the bottom */
+@media(max-width:1024px){
+  .sail-bleed{position:static;left:auto;margin-left:0;width:auto}
+  .sail-layout{flex-direction:column;max-width:none;margin:0;padding:0}
+  .sail-mapwrap{position:static;width:100%}
+  #sailmap{height:68vh;min-height:320px}
+}
+
+/* Leaflet must not inherit the theme's <img> / link styling */
+.leaflet-container{font:inherit;background:#a9d3df!important}
+.leaflet-pane img,.leaflet-tile,.leaflet-marker-icon,.leaflet-marker-shadow,.leaflet-image-layer,.leaflet-container img{max-width:none!important;max-height:none!important;margin:0!important;padding:0!important;border:0!important;border-radius:0!important;box-shadow:none!important;background:transparent!important}
+.leaflet-tile{width:256px!important;height:256px!important}
+.leaflet-bar a{color:#000!important;background:#fff!important}
+.leaflet-control-attribution{background:rgba(255,255,255,.8)!important;color:#333!important}
+.leaflet-control-attribution a{color:#0066cc!important;text-decoration:underline}
 </style>
 
+<div class="sail-bleed">
 <div class="sail-layout">
 <div class="sail-col">
 
 <h2 class="sail-year">2026</h2>
 <div class="sail-grid">
 <a class="sail-card" data-trip="vannes2026" style="--c:#4aa3df" href="glenans_vannes_2026"><span class="im" style="background-image:url('/docs/sailing/hoedic_2026-2.jpg')"></span><span class="bd"><span class="ti">Stage Glénans — Spé Manœuvre Pogo</span><span class="me">22–27 août 2026 · Golfe du Morbihan, Houat-Hœdic</span></span></a>
-<a class="sail-card" data-trip="brest2026" style="--c:#e4572e" href="brest_june_2026"><span class="im"></span><span class="bd"><span class="ti">Croisière en Mer d'Iroise</span><span class="me">14–17 mai 2026 · Brest</span></span></a>
+<a class="sail-card" data-trip="brest2026" style="--c:#e4572e" href="brest_june_2026"><span class="im" style="background-image:url('/docs/sailing/brest_2026-1.jpg')"></span><span class="bd"><span class="ti">Croisière en Mer d'Iroise</span><span class="me">14–17 mai 2026 · Brest</span></span></a>
 </div>
 
 <h2 class="sail-year">2025</h2>
@@ -75,6 +98,7 @@ a.sail-card:hover{transform:translateY(-3px);box-shadow:0 8px 22px rgba(0,0,0,.3
 <p class="sail-maphint">Tracés approximatifs reconstitués d'après les descriptions. Fond OpenStreetMap / OpenSeaMap. Survolez une vignette pour surligner son parcours.</p>
 </div>
 </div>
+</div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
 <script>
@@ -92,15 +116,14 @@ a.sail-card:hover{transform:translateY(-3px);box-shadow:0 8px 22px rgba(0,0,0,.3
     vem2024:{c:'#7a67ee',pts:[[47.872,-3.918],[47.717,-3.998],[47.32,-3.13],[47.347,-2.510],[46.727,-2.339],[47.392,-2.955],[47.543,-2.899]]}
   };
   var map=L.map('sailmap',{scrollWheelZoom:false});
-  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18,attribution:'&copy; OpenStreetMap'}).addTo(map);
-  L.tileLayer('https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png',{maxZoom:18,opacity:.9}).addTo(map);
+  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18,crossOrigin:true,attribution:'&copy; OpenStreetMap'}).addTo(map);
+  L.tileLayer('https://tiles.openseamap.org/seamark/{z}/{x}/{y}.png',{maxZoom:18,crossOrigin:true,opacity:.9}).addTo(map);
   var lines={},all=[];
   Object.keys(TRIPS).forEach(function(id){
     var t=TRIPS[id];
     var card=document.querySelector('.sail-card[data-trip="'+id+'"]');
-    var pl=L.polyline(t.pts,{color:t.c,weight:3,opacity:.8,lineJoin:'round',lineCap:'round'}).addTo(map);
-    var name=card?card.querySelector('.ti').textContent:id;
-    pl.bindTooltip(name,{sticky:true});
+    var pl=L.polyline(t.pts,{color:t.c,weight:3,opacity:.85,lineJoin:'round',lineCap:'round'}).addTo(map);
+    pl.bindTooltip(card?card.querySelector('.ti').textContent:id,{sticky:true});
     if(card){
       pl.on('click',function(){location.href=card.href;});
       pl.on('mouseover',function(){set(id,true);});
@@ -112,11 +135,13 @@ a.sail-card:hover{transform:translateY(-3px);box-shadow:0 8px 22px rgba(0,0,0,.3
   });
   function set(id,on){
     var pl=lines[id];if(!pl)return;
-    pl.setStyle({weight:on?6:3,opacity:on?1:.8});
+    pl.setStyle({weight:on?6:3,opacity:on?1:.85});
     if(on)pl.bringToFront();
     var card=document.querySelector('.sail-card[data-trip="'+id+'"]');
     if(card)card.classList.toggle('hl',on);
   }
   try{map.fitBounds(L.featureGroup(all).getBounds().pad(0.08));}catch(e){map.setView([47.9,-3.2],7);}
+  setTimeout(function(){map.invalidateSize();},250);
+  window.addEventListener('resize',function(){map.invalidateSize();});
 })();
 </script>
