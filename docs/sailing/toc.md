@@ -27,15 +27,15 @@ a.sail-card:hover{transform:translateY(-3px);box-shadow:0 8px 22px rgba(0,0,0,.3
 .sail-card.todo{opacity:.45}
 .sail-card.todo .im{display:flex;align-items:center;justify-content:center;font-size:11px;letter-spacing:.09em;text-transform:uppercase}
 
-/* break out of the theme's narrow content column on desktop */
+/* break out of the theme's 650px content column on desktop */
 @media(min-width:1025px){
-  .sail-bleed{position:relative;left:50%;margin-left:-50vw;width:100vw;box-sizing:border-box}
-  .sail-layout{max-width:1360px;margin:0 auto;padding:0 32px 0 clamp(32px,calc(50vw - 200px),340px);box-sizing:border-box}
+  .sail-bleed{width:100vw;margin-left:calc(50% - 50vw)}
+  .sail-layout{max-width:1600px;margin:0 auto;padding:0 clamp(20px,3.5vw,64px);box-sizing:border-box}
 }
 
 /* tablet / mobile: single column, thumbnails first, map at the bottom */
 @media(max-width:1024px){
-  .sail-bleed{position:static;left:auto;margin-left:0;width:auto}
+  .sail-bleed{width:auto;margin-left:0}
   .sail-layout{flex-direction:column;max-width:none;margin:0;padding:0}
   .sail-mapwrap{position:static;width:100%}
   #sailmap{height:68vh;min-height:320px}
