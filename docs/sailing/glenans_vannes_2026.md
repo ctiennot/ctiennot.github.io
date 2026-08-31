@@ -155,3 +155,17 @@ Retour tôt le matin au port pour attraper l'horaire de l'écluse. Derniers topo
 <div class="nav-lb" id="ph3"><a class="nav-lb-bg" href="#galerie"></a><a class="nav-lb-prev" href="#ph2">‹</a><img src="/docs/sailing/hoedic_2026-3.jpg" alt=""><a class="nav-lb-next" href="#ph4">›</a><a class="nav-lb-x" href="#galerie">×</a></div>
 <div class="nav-lb" id="ph4"><a class="nav-lb-bg" href="#galerie"></a><a class="nav-lb-prev" href="#ph3">‹</a><img src="/docs/sailing/hoedic_2026-4.jpg" alt=""><a class="nav-lb-next" href="#ph5">›</a><a class="nav-lb-x" href="#galerie">×</a></div>
 <div class="nav-lb" id="ph5"><a class="nav-lb-bg" href="#galerie"></a><a class="nav-lb-prev" href="#ph4">‹</a><img src="/docs/sailing/hoedic_2026-5.jpg" alt=""><a class="nav-lb-next" href="#ph1">›</a><a class="nav-lb-x" href="#galerie">×</a></div>
+
+## Topos
+
+Chronologies notées à bord : manœuvre d'homme à la mer, envoi et affalage du spi symétrique.
+
+<div class="nav-gallery">
+  <a href="#tp1"><img src="/docs/sailing/hoedic_2026-topo-1.jpg" alt="Chrono manœuvre HLM (ralingue)" loading="lazy"></a>
+  <a href="#tp2"><img src="/docs/sailing/hoedic_2026-topo-2.jpg" alt="Affalage de spi symétrique" loading="lazy"></a>
+  <a href="#tp3"><img src="/docs/sailing/hoedic_2026-topo-3.jpg" alt="Envoi de spi symétrique" loading="lazy"></a>
+</div>
+
+<div class="nav-lb" id="tp1"><a class="nav-lb-bg" href="#topos"></a><a class="nav-lb-prev" href="#tp3">‹</a><img src="/docs/sailing/hoedic_2026-topo-1.jpg" alt=""><a class="nav-lb-next" href="#tp2">›</a><a class="nav-lb-x" href="#topos">×</a></div>
+<div class="nav-lb" id="tp2"><a class="nav-lb-bg" href="#topos"></a><a class="nav-lb-prev" href="#tp1">‹</a><img src="/docs/sailing/hoedic_2026-topo-2.jpg" alt=""><a class="nav-lb-next" href="#tp3">›</a><a class="nav-lb-x" href="#topos">×</a></div>
+<div class="nav-lb" id="tp3"><a class="nav-lb-bg" href="#topos"></a><a class="nav-lb-prev" href="#tp2">‹</a><img src="/docs/sailing/hoedic_2026-topo-3.jpg" alt=""><a class="nav-lb-next" href="#tp1">›</a><a class="nav-lb-x" href="#topos">×</a></div>
