@@ -143,15 +143,15 @@ Retour tôt le matin au port pour attraper l'horaire de l'écluse. Derniers topo
 ## Galerie
 
 <div class="nav-gallery">
-  <a href="#ph1"><img src="hoedic_2026-1.jpg" alt="Lever de lune au mouillage" loading="lazy"></a>
-  <a href="#ph2"><img src="hoedic_2026-2.jpg" alt="Spi rouge établi" loading="lazy"></a>
-  <a href="#ph3"><img src="hoedic_2026-3.jpg" alt="Port et ponton sur la plage" loading="lazy"></a>
-  <a href="#ph4"><img src="hoedic_2026-4.jpg" alt="Étrave sur eau claire" loading="lazy"></a>
-  <a href="#ph5"><img src="hoedic_2026-5.jpg" alt="Port de pêche, ciel d'orage" loading="lazy"></a>
+  <a href="#ph1"><img src="/docs/sailing/hoedic_2026-1.jpg" alt="Lever de lune au mouillage" loading="lazy"></a>
+  <a href="#ph2"><img src="/docs/sailing/hoedic_2026-2.jpg" alt="Spi rouge établi" loading="lazy"></a>
+  <a href="#ph3"><img src="/docs/sailing/hoedic_2026-3.jpg" alt="Port et ponton sur la plage" loading="lazy"></a>
+  <a href="#ph4"><img src="/docs/sailing/hoedic_2026-4.jpg" alt="Étrave sur eau claire" loading="lazy"></a>
+  <a href="#ph5"><img src="/docs/sailing/hoedic_2026-5.jpg" alt="Port de pêche, ciel d'orage" loading="lazy"></a>
 </div>
 
-<div class="nav-lb" id="ph1"><a class="nav-lb-bg" href="#galerie"></a><a class="nav-lb-prev" href="#ph5">‹</a><img src="hoedic_2026-1.jpg" alt=""><a class="nav-lb-next" href="#ph2">›</a><a class="nav-lb-x" href="#galerie">×</a></div>
-<div class="nav-lb" id="ph2"><a class="nav-lb-bg" href="#galerie"></a><a class="nav-lb-prev" href="#ph1">‹</a><img src="hoedic_2026-2.jpg" alt=""><a class="nav-lb-next" href="#ph3">›</a><a class="nav-lb-x" href="#galerie">×</a></div>
-<div class="nav-lb" id="ph3"><a class="nav-lb-bg" href="#galerie"></a><a class="nav-lb-prev" href="#ph2">‹</a><img src="hoedic_2026-3.jpg" alt=""><a class="nav-lb-next" href="#ph4">›</a><a class="nav-lb-x" href="#galerie">×</a></div>
-<div class="nav-lb" id="ph4"><a class="nav-lb-bg" href="#galerie"></a><a class="nav-lb-prev" href="#ph3">‹</a><img src="hoedic_2026-4.jpg" alt=""><a class="nav-lb-next" href="#ph5">›</a><a class="nav-lb-x" href="#galerie">×</a></div>
-<div class="nav-lb" id="ph5"><a class="nav-lb-bg" href="#galerie"></a><a class="nav-lb-prev" href="#ph4">‹</a><img src="hoedic_2026-5.jpg" alt=""><a class="nav-lb-next" href="#ph1">›</a><a class="nav-lb-x" href="#galerie">×</a></div>
+<div class="nav-lb" id="ph1"><a class="nav-lb-bg" href="#galerie"></a><a class="nav-lb-prev" href="#ph5">‹</a><img src="/docs/sailing/hoedic_2026-1.jpg" alt=""><a class="nav-lb-next" href="#ph2">›</a><a class="nav-lb-x" href="#galerie">×</a></div>
+<div class="nav-lb" id="ph2"><a class="nav-lb-bg" href="#galerie"></a><a class="nav-lb-prev" href="#ph1">‹</a><img src="/docs/sailing/hoedic_2026-2.jpg" alt=""><a class="nav-lb-next" href="#ph3">›</a><a class="nav-lb-x" href="#galerie">×</a></div>
+<div class="nav-lb" id="ph3"><a class="nav-lb-bg" href="#galerie"></a><a class="nav-lb-prev" href="#ph2">‹</a><img src="/docs/sailing/hoedic_2026-3.jpg" alt=""><a class="nav-lb-next" href="#ph4">›</a><a class="nav-lb-x" href="#galerie">×</a></div>
+<div class="nav-lb" id="ph4"><a class="nav-lb-bg" href="#galerie"></a><a class="nav-lb-prev" href="#ph3">‹</a><img src="/docs/sailing/hoedic_2026-4.jpg" alt=""><a class="nav-lb-next" href="#ph5">›</a><a class="nav-lb-x" href="#galerie">×</a></div>
+<div class="nav-lb" id="ph5"><a class="nav-lb-bg" href="#galerie"></a><a class="nav-lb-prev" href="#ph4">‹</a><img src="/docs/sailing/hoedic_2026-5.jpg" alt=""><a class="nav-lb-next" href="#ph1">›</a><a class="nav-lb-x" href="#galerie">×</a></div>
